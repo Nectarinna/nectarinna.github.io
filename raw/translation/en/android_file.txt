@@ -11,7 +11,9 @@ You must agree to this license agreement when using this translation:
 4. And more... See the full license agreement of this translation mod in Settings > Credits
 
 [CREDTIS_CHINA_PRODUCER]
-Original Translation made by Pea Gameplay, updates past 3.4.4 by Nectarinna.
+Original Translation made by Pea Gameplay, modified personally by Nectarinna.
+Credit to the Reflourished devs for the names of the Frostbite Caves Resurgence zombies, and to MystyMyst for Bloomfire Blaster.
+
 Pea Gameplay's social platforms:
 YouTube: https://youtube.com/@peagameplay-vn
 Discord server: https://discord.gg/9dNbcJRvyb
@@ -34,7 +36,7 @@ You must agree to this license agreement when using this translation:
 8. The author reserves all rights not expressly granted in this agreement.
 
 [Notice_About_This_Lawnstrings]
-Each contents of this translation is splitted into sections, from important part to unimportant part. For example:
+Each contents of this translation is split into sections, from important part to unimportant part. For example:
 
 [SECTION_NAME]
 
@@ -5356,7 +5358,7 @@ Plant a Lily Pad first!
 This plant can't be planted in the sky.
 
 [ADVICE_PLANT_NOT_IN_GOLDROAD]
-This plant can't be planted here.
+You can't plant on unsodded lanes.
 
 [ADVICE_PLANT_NOT_ON_GUIDE_DOOR]
 You can't plant on a passage.
@@ -5376,8 +5378,8 @@ chances of surviving a zombie attack!
 Plant at least 1 Sunflower per row! 
 
 [ADVICE_PLANTED_PEASHOOTER]
-Nicely done!  You can also plant by tapping
-the seed packet and then the lawn
+Nicely done! You can also plant by tapping
+the seed packet and then the lawn.
 
 [ADVICE_PLANTING_NEEDS_GROUND]
 Spikeweeds can only be planted on solid ground.
@@ -5397,7 +5399,7 @@ Shovel a plant or upgrade the sun bank to plant more.
 Not unlocked yet
 
 [ADVICE_NOT_ON_ICEBLOCKS]
-You can't plant on blocks or statues.
+You can't plant on iceblocks or statues.
 
 [PLANTING_NOT_ON_BESIEGE_BOX]
 You can't plant on this box.
@@ -5427,7 +5429,7 @@ Wooden boxes cannot be placed in tiles that have zombies.
 Please place a wooden box in the tile indicated by the arrow.
 
 [PLANTING_ON_BESIEGE_BOX]
-Plant only on wooden boxes.
+You can plant on wooden boxes.
 
 [PLANTING_COBCANNON_CANNOT_BE_HERE]
 You can't plant Cob Cannon here.
@@ -5535,7 +5537,7 @@ You can't plant on a firecracker.
 You can't plant on a pumpkin scarecrow.
 
 [PLANTING_NOT_ON_RAIL_MAGICBEANS]
-The Magic Beans Artifact cannot be used on tracks.
+The Magic Beans Artifact cannot be used on rails.
 
 [PLANTING_COBCANNON_CANNOT_ON_VINES]
 Cob Cannon cannot be planted on vine plants.
@@ -5796,13 +5798,13 @@ Tap to spend sun to attack.
 Tangle Kelp can only be planted in water.
 
 [ADVICE_PLANT_LILYPAD_ON_LILYPAD]
-Lily Pads can't be planted on Lily Pads.
+Lily Pads can't be planted on other Lily Pads.
 
 [ADVICE_NEED_LILYPAD_FIRST]
 Plant a Lily Pad first!
 
 [ADVICE_NO_BANANA_ON_RAILCART]
-Bananas are too slippery for mine carts.
+Banana Launchers are too slippery for mine carts.
 
 [ADVICE_PLANT_NOT_ON_TIDE]
 You can't plant this on the tide.
@@ -13742,7 +13744,7 @@ Tile Turnip
 Gift of Generosity
 
 [SUPER_POWERPLANT_HEAD_DES_ID_25330]
-Spent a total of 3000 CNY on purchases.
+Spent a cumulitive 3000 CNY on purchases.
 Tile Turnip's Costume changes the appearence of Purple Power Tiles... but not much else. They look cute though.
 
 [POWERTILE_TUTORIAL_1]
@@ -39594,7 +39596,7 @@ Aqua Vine Costume
 不能种植在水藤蔓上
 
 [ADVICE_PLANT_AQUAVINE_ON_LILYPAD]
-不能在Lily Pad上种植水藤蔓
+You can't plant Aqua Vine on a Lily Pad.
 
 [WINTERRAMBUTAN]
 Frost Rambutan
@@ -40080,28 +40082,28 @@ Party Peel
 Black Iron Gardener
 
 [NUMBERLOGINS_HEAD_DES_ID_25590]
-Log in for 180 days.
+Have an account that's over 180 days old.
 You may have been late to the party, but you were still the life of it.
 
 [NUMBERLOGINS_HEAD_ID_25591]
 Silver Soldier
 
 [NUMBERLOGINS_HEAD_DES_ID_25591]
-Log in for 365 days.
+Have an account that's over 365 days old.
 Some may have done it longer, but you've proven few can do it better.
 
 [NUMBERLOGINS_HEAD_ID_25592]
 Gilded Gold Veteran
 
 [NUMBERLOGINS_HEAD_DES_ID_25592]
-Log in for 600 days.
+Have an account that's over 600 days old.
 Each time you defeat a zombie, they'll know you're one of the first.
 
 [NUMBERLOGINS_HEAD_ID_25593]
 Platinum Warrior
 
 [NUMBERLOGINS_HEAD_DES_ID_25593]
-Log in for 999 days.
+Have an account that's over 999 days old.
 Only for those who were out there fighting zombies before the battle even started.
 
 [PVZ1MODE_IZOMBIE]
@@ -42634,7 +42636,7 @@ P.U. 42 Primal Potato Mine
 When Worlds Collide
 
 [UNCHARTED_NO42_HEAD_DES_ID_10000]
-Collect all stars in Parallel Universe No. 42.
+Bought from Parallel Universe No. 42's shop.
 Great work! Only 2 billion more universes to go! Maybe start with 213 and 215...
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25573]
@@ -42918,10 +42920,10 @@ New Year Cumulative Recharge Instructions：
 新年领红包活动说明
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Congratulations on making a fortune! This is a New Year's red envelope for you.
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Happy New Year neighbor! You're just in time for a red envelope.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-{SAY:NEWYEARCRAZYDAVE} Happy new year!
+{SAY:NEWYEARCRAZYDAVE}Hope you get something nice!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -43012,6 +43014,7 @@ World Eater Turnip
 
 [TOYS_HEAD_DES_ID_25630]
 Obtain from the Black Hole Fantasy Tour event gacha.
+This costume is so slick not even burnt on cheese will stick! Or much else for that matter.
 
 [HARVEST_BATTLE_HEAD_ID_25631]
 逗你玩儿
@@ -43023,13 +43026,14 @@ Obtain from the Black Hole Fantasy Tour event gacha.
 New Year's Greetings
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25632]
+Spend a cumulitive 700 CNY on packages in the New Year Gift Pack event.
 在新年礼包活动期间，达到活动中累计充值进度领取
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Flower of Fortune
 
 [TEN_THOUSAND_HEAD_DES_ID_25636]
-Spent a total of 10000 CNY on purchases.
+Spent a cumulitive 10000 CNY on purchases.
 A mark of the truest of dedicated whales. The support you have given is exactly what we need to keep going, so from the bottom of our hearts, we thank you!
 
 [NEWYEARREDPACKETE_TAB0]
@@ -53467,7 +53471,9 @@ After defeating a zombie, releases a special attack.
 
 [PINECONE_DESCRIPTION]
 {KEYWORD}Plant Features: {STAT}yellow plant
-{FLAVOR}In a mysterious western town, Pistol Pinecone is a sharpshooter cowboy, fighting all sorts of zombie bullies that invade his town, zombies tremble as soon as his name is mentioned. He almost became the town sheriff, but he turned it down, because he feels that sheriffs think that they're too good to go to the bar and drink.
+{FLAVOR}Pistol Pinecone had always looked up to his hero, a mysterious pomegranate sharpshooter called Rotten Red, who could deal with hordes of bandits without even breaking a sweat... that is, until he fell terminally sick after a rogue zombie bite. Seeing his childhood hero in such horrible condition sparked something in the young Pinecone's mind, a spark leading to his mastery of his pistols. Even after Rotten Red recovered, he still keeps up with his job, now with the old legend as his greatest partner.
+
+Tribute to Miles, for making most of our childhoods with such a simple drawing of a pomegranate plant that blossomed into an incredibly awesome hero. As the PopCap employees thanked you for using your wish on them, we thank you for the memories you've given us. May your ass kicking of cancer be remembered well, you legend.
 
 [PINECONE_TOOLTIP]
 After defeating a zombie, releases a special attack.
@@ -53802,7 +53808,7 @@ Guard of grander scale who is smart enough to use the enviroment around him to h
 Security Imp
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION]
-Only acts like and uses a Costume of a dog out of obligation. Yes, it was literally part of his contract, imp labor laws are messed up.
+Only acts like and uses a costume of a dog out of obligation. Yes, it was literally part of his contract, imp labor laws are messed up.
 
 [ZOMBIE_PARKOUR_IMP_DESCRIPTION_HEADER]
 Released past most defenses, then barks forward.
@@ -53830,7 +53836,7 @@ The word "cool" runs through his life.
 Kid Zombie
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION]
-On Children's Day, when wearing children's clothing, he feels like he has returned to childhood.
+Only having been zombified a few years ago, Kid Zombie isn't quite used to the zombie life. Sometimes he still walks up to the school he used to go to, only to remember that everyone there is now shambling along looking for brains, and that he should be too.
 
 [ZOMBIE_CHILDRENSDAY_DESCRIPTION_HEADER]
 Regular obliviously-innocent zombie.
@@ -53839,7 +53845,7 @@ Regular obliviously-innocent zombie.
 Kid Conehead
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION]
-The Children's Day Conehead is looking for the ice cream he had just held in his hand. Have you seen it?
+Quite a sweet tooth this one. While craniums are obviously still what he's going after 
 
 [ZOMBIE_CHILDRENSDAY_ARMOR1_DESCRIPTION_HEADER]
 His frosty head protection makes him twice as durable as a normal child.
@@ -61353,7 +61359,7 @@ Start with an extra Plant Food slot.
 Start with {SUN_COUNT} extra sunlight.
 
 [DANGER_ROOM_TITLE_GAME_OVER]
-Warning!
+Notice
 
 [DANGER_ROOM_TITLE_LEVEL_COMPLETE]
 Level {NUMBER} completed!
@@ -61380,7 +61386,7 @@ Reward received!
 Your reward!
 
 [DANGER_ROOM_BUTTON_RESET]
-Change unselected cards
+Change Unselected Cards
 
 [DANGER_ROOM_TITLE_LEVEL_1]
 Lv.9 Myth Maker
