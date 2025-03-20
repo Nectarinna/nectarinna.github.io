@@ -12,7 +12,7 @@ You must agree to this license agreement when using this translation:
 
 [CREDTIS_CHINA_PRODUCER]
 Original Translation made by Pea Gameplay, modified personally by Nectarinna.
-Credit to the Reflourished devs for the names of the Frostbite Caves Resurgence zombies, and to MystyMyst for Bloomfire Blaster.
+Credit to the Reflourished devs for the names of the Frostbite Caves Resurgence zombies, and to AezzyDX for Bloomfire Blaster.
 
 Pea Gameplay's social platforms:
 YouTube: https://youtube.com/@peagameplay-vn
@@ -49,13 +49,13 @@ You may use the search feature (Ctrl+F) in order to look up corresponding sectio
 
 [SECTION_SKILL_PLANT_TRANS]
 [PEASHOOTER_NEW_SKILL_LEVEL1_DES]
-Peashooter fires peas at zombies in his lane.
+Peashooter fires peas at zombies in his lane, dealing 20 damage every 1.35 to 1.5 seconds. Cheap, but effective.
 
 [PEASHOOTER_NEW_SKILL_LEVEL2_DES]
 When Peashooter attacks, there is a 10% chance to fire 5 peas in a row.
 
 [PEASHOOTER_NEW_SKILL_LEVEL3_DES]
-The trigger probability of Pea Combo is increased by 100%, and there is a 20% probability of firing 5 peas in a row when attacking.
+The chance to fire 5 peas at once is increased to 20%.
 
 [PEASHOOTER_NEW_SKILL_LEVEL4_DES]
 Peashooter has a 35% chance to be boosted when planted.
@@ -190,10 +190,10 @@ Bloomerang shoots boomerangs down his lane, dealing damage to up to 3 different 
 Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher sun production output makes them ideal for affording particularly expensive plants.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL2_DES]
-种植双胞向日葵后立刻生产50阳光. 
+Twin Sunflower now gives 50 sun instantly upon being planted.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL3_DES]
-种植双胞向日葵后立刻产出150阳光. 
+Twin Sunflower now gives 150 sun instantly upon being planted.
 
 [TWINSUNFLOWER_NEW_SKILL_LEVEL4_DES]
 种植时有中概率直接释放能量豆大招！
@@ -205,7 +205,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 双胞向日葵绽放出光芒并快乐地舞动, 立刻生产450点阳光, ^ff0000^每次生产有15%的概率生产100金币. ^oldclr^
 
 [BONKCHOY_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在菜问左侧或右侧一格时, 菜问会重拳出击. 当僵尸血量过低时菜问会发动上勾拳终结该僵尸. 
+Bonk Choy punches nearby zombies in the tile ahead and behind him, doing 15 damage every 0.4 seconds. His high damage but low range is perfect when behind wall plants, against zombies that ignore plants, or when combined with stallers.
 
 [BONKCHOY_NEW_SKILL_LEVEL2_DES]
 菜问每攻击15次可以使出一次上勾拳, 使僵尸短暂浮空. 
@@ -226,7 +226,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 ^ff0000^立即将周围5×5范围内的中小体型僵尸拉扯至自身位置并持续眩晕, ^oldclr^然后连续挥拳, 对周围3×3的所有僵尸使出超快的连环拳击, 连续造成多次拳击伤害
 
 [SPRINGBEAN_NEW_SKILL_LEVEL1_DES]
-当有僵尸进入弹簧豆右侧一格时, 会压紧弹簧, 将接触到弹簧豆的僵尸击退1.25格. ^ff0000^在海盗港湾空夹板的位置有奇效！^oldclr^
+Spring Bean bounces away nearby zombies a tile, then goes on cooldown for 11 seconds. If he's used in Pirate Seas, he'll bounce away zombies into nearby water, instantly defeating them. Beware that this effect does not work against Gargantuars!
 
 [SPRINGBEAN_NEW_SKILL_LEVEL2_DES]
 解锁强力弹射, 每次弹起时有15%的概率直接将中小型僵尸击飞. 
@@ -244,7 +244,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 弹簧豆跃起之后重重的砸向地面, 屏幕中所有的僵尸都会被弹退1.25格, ^ff0000^并且造成2秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^. ^oldclr^并立刻完成一次休息. 
 
 [SPIKEWEED_NEW_SKILL_LEVEL1_DES]
-当有僵尸踩在地刺上时, 会发动刺击对所有僵尸造成伤害. ^ff0000^对滚筒和钢琴僵尸有奇效！^oldclr^
+Spikeweeds prickle zombies from below, doing 10 damage every 0.5 seconds. They're a ground plant, meaning most zombies ignore them entirely, letting you pile them for space-efficient area of effect damage. They also instantly destroy certain crushing objects (and themselves) on contact, such as Barrels or Pianists.
 
 [SPIKEWEED_NEW_SKILL_LEVEL2_DES]
 击杀15只僵尸后, 地刺就会变身为猛鬼地刺, 攻击力上升至22.5. 
@@ -262,7 +262,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 地刺对本行连续刺出尖刺, 将本行的所有的僵尸拖至地刺所在格并造成伤害, ^ff0000^并额造成3秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^. ^oldclr^
 
 [SNAPDRAGON_NEW_SKILL_LEVEL1_DES]
-当僵尸出现在火龙草右侧2×3范围内时, 会向右喷出覆盖攻击范围的火焰, 对所有僵尸造成伤害. 
+Snapdragons breathe fire in a 2x3 area in front of them, dealing 30 damage around every 2 seconds. They're exceptional at taking down hordes of weaker zombies, but may struggle against tankier threats.
 
 [SNAPDRAGON_NEW_SKILL_LEVEL2_DES]
  每次攻击有50%的概率吐出对范围内所有僵尸造45点伤害的蓝色龙息. 
@@ -283,7 +283,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 火龙草飞起对^ff0000^右侧4×3范围^oldclr^吐出火焰, 对所有僵尸造成伤害. 
 
 [POWERLILY_NEW_SKILL_LEVEL1_DES]
-种植后立刻绽放并生产一颗能量豆. 
+Power Lily generates a singular Plant Food for you to use, but they have an extremely long recharge time. Use it wisely!
 
 [POWERLILY_PLANTFOOD_DESCRIPTION] 
 此植物无能量豆大招. 
@@ -292,7 +292,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 此植物无能量豆大招. 
  
 [SQUASH_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在窝瓜左右各1格时, 窝瓜会紧盯着它们, 之后跳起来对单格范围内的僵尸造成伤害. 
+Squash...well, squashes! Once he spots a target in a 5x1 range, he'll squash them, doing 1800 damage in a small area. Once they spot a zombie, they'll go after it regardless of where they go, even into other lanes. They're also essentially invincible after spotting a target.
 
 [SQUASH_NEW_SKILL_LEVEL2_DES]
 跳压后有20%的概率不会消失并立刻下压一次. 
@@ -310,7 +310,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 立刻跳起随机跳压场上的^ff0000^三个整体生命值最高的格子, ^oldclr^后在自身所在格碾压一次. 
 
 [CHILIBEAN_NEW_SKILL_LEVEL1_DES]
-当有僵尸啃食完巴豆后, 僵尸会受到伤害并释放出毒气, 对它身后的僵尸造成7秒^848484^眩晕Ⅰ^oldclr^. 毒气的眩晕效果对机械单位无效. 
+Chili Bean makes zombies that eat it sustain a crippling gastrointestinal bout, defeating them and releasing a gas down the lane that stuns zombies for 7 seconds. Zombies of higher levels are not instantly killed, but do take 1800 damage and still release gas. They can also affect multiple zombies at once if they're all eating it at the same time.
 
 [CHILIBEAN_NEW_SKILL_LEVEL2_DES]
 僵尸释放出的毒气受到了改良的^848484^眩晕Ⅰ^oldclr^时间延长为8.5秒. 
@@ -328,7 +328,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 巴豆用尽全身力气排出毒气, 并分裂出^ff0000^四个巴豆^oldclr^并向场上的空格随机投放. 
 
 [SPLITPEA_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在双向射手右侧时, 每次攻击发射1颗豌豆. 当有僵尸出现在双向射手左侧时, 每次攻击发射2颗豌豆. 
+Split Pea fires peas forwards, but also two peas at a time backwards. Of course, they can be used against zombies that attack from the back, such as Prospectors or Diggers, but also work with lane diverting gimmicks or plants!
 
 [SPLITPEA_NEW_SKILL_LEVEL2_DES]
 每次向左侧攻击时都有40%的概率向左侧发射寒冰豌豆. 
@@ -349,7 +349,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 向左侧和右侧各发射60颗豌豆, ^ff0000^并向左侧追加一颗伤害为自身攻击力20倍的寒冰大豌豆, 向右侧追加一颗伤害为自身攻击力40倍的火焰大豌豆. ^oldclr^
 
 [JALAPENO_NEW_SKILL_LEVEL1_DES]
-种植后, 火爆辣椒会立刻对本行造成无视防具的灰烬伤害. 
+Jalapeno torches the entire lane they were planted on, dealing 1800 armor-piercing damage to all zombies in it. They also instantly destroy zombies inside barrels, ice blocks and the like. Exceptionally useful when one specific lane has too many threats for your liking.
 
 [JALAPENO_NEW_SKILL_LEVEL2_DES]
 火爆辣椒攻击范围变为覆盖上下左右的十字火焰. 
@@ -364,7 +364,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 此植物无能量豆大招. 
   
 [GRAVEBUSTER_NEW_SKILL_LEVEL1_DES]
-可以种植在墓碑上, 种植后花费4.5秒内吞噬一个墓碑. 
+Grave Buster can be planted on gravestones to destroy them, as long as it's not eaten in the 4 seconds it needs to eat the grave at least. They can also be planted on other grave-like grid items, such as lollipops or stone blocks created by Gorgon Pitcher.
 
 [GRAVEBUSTER_PLANTFOOD_DESCRIPTION]
 此植物无能量豆大招. 
@@ -373,7 +373,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 此植物无能量豆大招. 
 
 [SNOWPEA_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在寒冰射手前方时, 寒冰射手会发射寒冰豌豆攻击僵尸并对击中的目标造成持续 10 秒的冰减速效果. 
+Snow Pea fires ice peas at zombies, slowing them down by half of their usual speed for 10 seconds. The chill effect also puts out fires from Explorers, Prospectors or the fuses in Powder Kegs.
 
 [SNOWPEA_NEW_SKILL_LEVEL2_DES]
 每次发射豌豆时都有 15%概率改为发射伤害为 90/发的冰棱. 
@@ -391,7 +391,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 释放寒冰减速本行僵尸^ff0000^并发射3颗自身攻击力 40倍的大寒冰豌豆. ^oldclr^
 
 [TORCHWOOD_NEW_SKILL_LEVEL1_DES]
-火炬树桩头顶的火焰会使经过的豌豆变为火焰豌豆子弹, 增加1倍伤害. 
+Torchwood ignites any peas that pass by him, turning them into fire peas that do double the damage. Ice peas will turn into normal peas when passing by them though, so we wouldn't recommend doing that...
 
 [TORCHWOOD_NEW_SKILL_LEVEL2_DES]
 火炬树桩努力锻炼变得更耐打了生命值上升至1500. 
@@ -409,7 +409,7 @@ Twin Sunflower produces 100 sun at a time every 23.5 to 25 seconds. Their higher
 火焰树桩陷入狂怒使他的火焰变为^ff0000^紫色, 使经过的豌豆变为鬼火豌豆, 增加三倍伤害. ^oldclr^
 
 [KERNELPULT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在Kernel-pult右侧时, 会投掷玉米粒对僵尸造成伤害. 攻击时有20%概率发射黄油. 黄油造成攻击力2倍伤害, 并施加8秒的定身效果. 黄油的控制时间随僵尸阶数的提升而降低, 最低降至2秒. 
+Kernel-pult lobs kernels at zombies that deal 20 damage every 2.9 seconds, with a 20% chance to lob butter instead, which does 40 damage and stuns the zombie for 16 seconds. Butter also instantly defeats Seagull Zombies and other similar birds, however the chance and duration of it is shortened against zombies of higher levels.
 
 [KERNELPULT_NEW_SKILL_LEVEL2_DES]
 Kernel-pult每攻击5次会发射一枚伤害为 150 的玉米飞弹. 
@@ -427,7 +427,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块黄油, ^ff0000^造成更高的伤害和定身. ^oldclr^
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在闪电芦苇右侧三行时, 会使用闪电攻击范围内最靠左的僵尸, 并在攻击后出现伤害为5点的闪电链溅射最多三只僵尸. 
+Lightning Reed fires lightning at zombies in its lane and neighbouring ones, dealing 10 damage every 1.5 seconds. The lightning also bounces to up to three other nearby zombies. Weak by themselves, but quite strong once there's many of them on the lawn.
 
 [LIGHTNINGREED_NEW_SKILL_LEVEL2_DES]
 闪电攻击命中后有7%的概率对僵尸造成^ff9600^麻痹Ⅰ^oldclr^1秒. 
@@ -445,7 +445,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 聚集雷电的力量生产一朵可以持续攻击僵尸的大雷云, 雷云持续15s. ^ff0000^大雷云每次攻击可以对十字范围内的僵尸造成伤害. ^oldclr^
 
 [COCONUTCANNON_NEW_SKILL_LEVEL1_DES]
-点击椰子加农炮后, 椰子加农炮将会发射一枚椰子炮弹, 命中僵尸后爆炸并对以椰子为中心的 3×3 范围内的僵尸造成33%攻击力数值的溅射伤害. 
+Coconut Cannon is a manual plant, tap on it to fire a devastating coconut that does 900 damage to the target and 300 splash damage in a 3x3 area. Once it fires a shot it will need to cool down for 15 seconds before firing another. Time them well and they can take down hordes of zombies with ease.
 
 [COCONUTCANNON_NEW_SKILL_LEVEL2_DES]
 发射椰子炮弹后的休息时间缩短为 11.25 秒. 
@@ -466,7 +466,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 发射一枚特殊的炮弹, 把本行的僵尸推至底线后爆炸对3×3范围的僵尸造成伤害, ^ff0000^对底线的僵尸造成2秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^, ^oldclr^随后椰子加农炮会进入休息状态
 
 [PEAPOD_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在豌豆荚前方时, 豌豆荚中的每一个豌豆都会发射豌豆攻击僵尸. 可以在单格子上叠加种植豌豆荚, 单格最多5个
+Pea Pod starts out as nothing but a mere Peashooter, but can be planted on top of itself to continuously add more heads that fire an extra pea each time, maxing out at 5 heads.
 
 [PEAPOD_NEW_SKILL_LEVEL2_DES]
 每隔60秒自动生长一个豌豆荚, 上限5个. 
@@ -484,7 +484,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 豌豆荚一口气发射五颗伤害为^ff0000^自身攻击力40倍的燃烧的大豌豆. ^oldclr^
 
 [MELONPULT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在西瓜投手右侧时, 会投掷西瓜. 西瓜击中僵尸后破碎, 对以西瓜为中心的3×3范围内的僵尸造成攻击力50%的溅射伤害. 
+Melon-pult lobs heavy melons at zombies, doing 80 damage every 2.9 seconds, with 40 splash damage in a 3x3 area. Incredibly effective against all but the tankiest zombies.
 
 [MELONPULT_NEW_SKILL_LEVEL2_DES]
 当攻击范围内有2个及以上僵尸时, 西瓜投手有25%的概率发射两个西瓜. 
@@ -505,7 +505,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 西瓜投手变身西瓜大炮并向场上连续投射4个^ff0000^伤害更高的西瓜炮弹. ^oldclr^
 
 [IMITATER_NEW_SKILL_LEVEL1_DES]
-变身茄子会变身成植物卡槽中上一个植物, 种植时需要花费短暂时间来变身. 
+Imitater imitates the last plant you selected, letting you use two of the same one at once, effectively halving their recharge time. Useful for plants with incredibly low recharge times, or for plants you want to get many of quickly, like sun producers.
 
 [IMITATER_PLANTFOOD_DESCRIPTION]
 此植物无能量豆大招. 
@@ -514,13 +514,13 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 此植物无能量豆大招. 
 
 [REPEATER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在双重射手右侧时, 双重射手会每轮发射两发豌豆攻击僵尸. 
+Repeater fires two peas at once, doing double the damage of a normal Peashooter for double the cost. They're quite a reliable attacker.
 
 [REPEATER_NEW_SKILL_LEVEL2_DES]
 有16%概率发射两发寒冰豌豆或者火焰豌豆. 
 
 [REPEATER_NEW_SKILL_LEVEL3_DES]
-精通 CNY素之力后有32%概率发射火焰豌豆或者寒冰豌豆, 有16%的几率发射鬼火豌豆. 
+精通素之力后有32%概率发射火焰豌豆或者寒冰豌豆, 有16%的几率发射鬼火豌豆. 
 
 [REPEATER_NEW_SKILL_LEVEL4_DES]
 种植时有高概率直接释放能量豆大招！
@@ -532,7 +532,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 双重射手一口气发射出60发^ff0000^各种种类的豌豆^oldclr^和一发伤害为自身攻击力20倍的大豌豆. 
 
 [SPIKEROCK_NEW_SKILL_LEVEL1_DES]
-当有僵尸踩在地刺上时, 会发动刺击对所有僵尸造成伤害. 钢地刺拥有三根钢刺, 当它失去所有钢刺后, 它将死亡. ^ff0000^对滚筒和钢琴僵尸有奇效！^oldclr^
+Spikerocks do even more damage than Spikeweeds, at 20 per prick. They can also survive up to three crushing objects or Gargantuar smashes!
 
 [SPIKEROCK_NEW_SKILL_LEVEL2_DES]
 从地下发动的突然攻击有 20%概率造成1秒定身效果. 
@@ -550,7 +550,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 钢地刺将本行的僵尸拖至钢地刺所在格并造成伤害, ^ff0000^同时对本行僵尸造成3秒^oldclr^^848484^眩晕Ⅰ^oldclr^^ff0000^. ^oldclr^
 
 [TALLNUT_NEW_SKILL_LEVEL1_DES]
-高坚果拥有坚硬又高大的身体, 可以阻挡部分会飞跃植物的僵尸. 
+Tall-nuts block zombies with double the health of a normal Wall-nut, while also using their heightened stature to impede fliers and launched zombies.
 
 [TALLNUT_NEW_SKILL_LEVEL2_DES]
 被啃食完毕后高坚果巨大的身躯有 50%的概率倒下并造成 600 点伤害. 
@@ -568,7 +568,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 高坚果穿上一层^ff0000^更加坚硬的水晶盔甲. ^oldclr^
 
 [THREEPEATER_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在三重射手右侧三行的范围内时, 会向三行各发射1发豌豆攻击僵尸. 
+Threepeaters fire 3 peas at a time, one in their lane and two in the neighbouring lanes. Effective at taking down zombies in lanes where you may not have much available space.
 
 [THREEPEATER_NEW_SKILL_LEVEL2_DES]
 攻击时有25%的概率一次连续发射两轮豌豆. 
@@ -589,7 +589,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 三重射手一口气向场上扫射出^ff0000^ 198 颗豌豆, 正前方, 上侧与下侧各 66 颗. ^oldclr^
 
 [WINTERMELON_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在冰西瓜投手前方时, 会投掷冰西瓜. 冰西瓜击中僵尸后破碎, 对以冰西瓜为中心的 3×3 范围内的僵尸造成攻击力50%的溅射伤害和持续10秒的冰减速效果. 
+Winter Melons fire frozen melons that do just as much damage as normal ones, while also applying a powerful chill effect to any zombie they hit, slowing them down by 50% for 10 seconds. They are well worth their extremely high cost.
 
 [WINTERMELON_NEW_SKILL_LEVEL2_DES]
 可以投掷出寒冷的冰块, 有7%的概率使僵尸^0072ff^冻结Ⅰ^oldclr^2秒. 
@@ -610,7 +610,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 冰西瓜投手变身冰西瓜大炮向场上投射至少4 个^ff0000^伤害更高的为燃烧冰西瓜炮弹. ^oldclr^
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL1_DES]
-种植后樱桃炸弹会立刻对以自身为中心的 3×3范围造成爆炸伤害. 
+Cherry Bomb explode as soon as they are planted, doing 1800 armor-piercing damage to all zombies in a 3x3 area. Their explodonation is incredibly effective at taking down huge clumps of zombies instantly.
 
 [CHERRY_BOMB_NEW_SKILL_LEVEL2_DES]
 爆炸后有50%的概率留下一颗伤害为1800、爆炸范围为1×2的小樱桃. 
@@ -625,7 +625,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 此植物无能量豆大招. 
 
 [PEACH_NEW_SKILL_LEVEL1_DES]
-仙桃可以散发出光波治疗以自身为中心3×3 内的植物, 恢复所有植物150点生命值. 每5秒重复一次. 
+Heavenly Peach heals plants in a 3x3 area by 150 every 5.5 to 6.5 seconds. While they don't out-do a zombie's normal eat DPS, they can still help keep your wall plants alive for much longer.
 
 [PEACH_NEW_SKILL_LEVEL2_DES]
 仙桃不仅可以恢复生命值, 还会使受到回复的植物3秒内攻击力增加10%. 
@@ -643,7 +643,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 庇佑3×3 范围内的植物使他们进入5秒的无敌状态, ^ff0000^并完全恢复他们的生命值. ^oldclr^
 
 [FIREGOURD_NEW_SKILL_LEVEL1_DES]
-火葫芦可以在身体中积蓄火焰, 点击后立即将火焰向右侧全部喷出, 之后进入休息重新积蓄火焰. 每5秒积蓄1次火焰, 随着火焰的积累攻击范围和伤害都会提升, 积累3次后达到最远的4格攻击范围和335点伤害. 
+Fire Gourd can be tapped on to unleash a searing flame breath that deals up to 315 damage to zombies in a 5 tile range, but needs to recharge for 15 seconds afterwards. Tapping on them before then will cause a shorter, weaker flame to be let out. They also deal significantly more damage to Weapon Stands.
 
 [FIREGOURD_NEW_SKILL_LEVEL2_DES]
 熟练的掌握火焰让每阶段喷射火焰的持续时间增加至3秒. 
@@ -661,7 +661,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 火葫芦向本行^ff0000^吐出更高伤害的炎龙波, ^oldclr^随后进入休息状态. 
 
 [TURNIP_NEW_SKILL_LEVEL1_DES]
-可以保护身后的植物抵挡时空黑洞, 功夫气功僵尸和气功铜人僵尸的吸引能力. 
+Resistant Radishes root themselves firm on the ground, blocking zombies and preventing them, as well as all plants behind them, from being moved by qigong, black holes and the like.
 
 [TURNIP_NEW_SKILL_LEVEL2_DES]
 经过白萝卜的修行, 白萝卜获得攻击能力, 增加5点攻击力. 
@@ -679,7 +679,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 白萝卜立刻向场上的空格位置投放^ff0000^两个白萝卜, ^oldclr^优先选择没有白萝卜的行. 
 
 [BAMBOO_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在竹笋右侧时, 竹笋会滑出从地下攻击范围内所有的僵尸. 
+Bamboo Shoots burrow into the ground and attack zombies in a 4 tile range in front, dealing 15 damage every 3 seconds. Since they burrow, they are also a ground plant ignored by most zombies. If they hit a crushing object, Bamboo Shoot is destroyed and so is that object.
 
 [BAMBOO_NEW_SKILL_LEVEL2_DES]
 坚硬的竹笋破开地面有5%的概率击退僵尸. 
@@ -697,7 +697,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 竹笋钻入地面并向^ff0000^全场6个僵尸^oldclr^脚下刺出大竹笋造成攻击. 
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL1_DES]
-点击棱镜草消耗50阳光, 棱镜草会向前方发射一道光波, 对右侧最前方的僵尸造成伤害. 
+Magnifying Grass can be tapped on to spend 50 sun to fire a powerful rainbow shot that deals 550 damage. Great choice if you ever feel like you have too much sun without anything to spend it on.
 
 [MAGNIFYINGGRASS_NEW_SKILL_LEVEL2_DES]
 长按棱镜草消耗100阳光, 向僵尸发射一道攻击力3倍的光波. 
@@ -718,7 +718,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 棱镜草聚集太阳的能量, 向僵尸发射^ff0000^一道更高伤害的射线^oldclr^. 根据场上向日葵和双胞向日葵的数量对僵尸造成伤害. 
 
 [LASER_BEAN_NEW_SKILL_LEVEL1_DES]
-激光豆发射出激光束, 攻击右侧整行所有的僵尸. 
+Laser Bean fire eye lasers that pierce every single target in their lane, dealing 40 damage every 2.9 seconds. Be wary though, their infinite pierce can also cause incoming waves to progress much faster than usual!
 
 [LASER_BEAN_NEW_SKILL_LEVEL2_DES]
 激光豆可以一次发射两束激光, 每秒伤害增加了35%. 
@@ -736,7 +736,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 激光豆从嘴里发射出一道^ff0000^红色的强大的激光射线, ^oldclr^每次射击都会对他面前所有的僵尸造成^ff0000^巨大的伤害. ^oldclr^
 
 [STARFRUIT_NEW_SKILL_LEVEL1_DES]
-当有僵尸出现在星星果的正上, 正下, 正左, 右侧偏上和偏下范围时, 星星果会向5个方向各发射一枚星星. 
+Starfruits fires 5 stars in 5 different direction: behind, up, down, diagonally up and diagonally down. Each star deals 20 damage and it attacks every 1.35 to 1.5 seconds, dealing up to 100 damage! They're incredible against zombies that ignore plants, like fliers, or zombies that go backwards like Prospectors.
 
 [STARFRUIT_NEW_SKILL_LEVEL2_DES]
 星星果有40%的概率发射星星飞镖, 可以穿透2个僵尸造成伤害. 
@@ -754,7 +754,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 星星果全身散发出光芒自身^ff0000^开始逆时针旋转, 一边旋转一边向5个方向发射出大星星. ^oldclr^
 
 [BLOVER_NEW_SKILL_LEVEL1_DES]
-转动自己的叶子制造出狂风, 在3秒的时间内吹走全场处于飞行状态的僵尸, 迷雾和蒸汽. 
+Blover blows away all flying zombies on the lawn, as well as certain airborne targets like thrown Imps. It also shoos away fog of the non-magical variety, smoke bombs and bubbles.
 
 [BLOVER_PLANTFOOD_DESCRIPTION]
 此植物无能量豆大招. 
@@ -763,7 +763,7 @@ Kernel-pult积蓄黄油并向空中一次性发出, 对全屏僵尸投射一块�
 此植物无能量豆大招. 
 
 [EMPEA_NEW_SKILL_LEVEL1_DES]
-种植之后爆炸并发射出可以脉冲瘫痪5×5范围内的所有机械僵尸单位持续10s. 
+E.M.Peach releases a stunning electrical blast when planted, stunning all mechanical zombies
 
 [EMPEA_PLANTFOOD_DESCRIPTION]
 此植物无能量豆大招. 
@@ -11118,10 +11118,10 @@ Purchase Package
 First Purchase Package
 
 [RECHARGE_TOTAL_NUM]
-Recharged total {NUMBER} CNY
+Spent a total of {NUMBER} CNY
 
 [RECHARGE_TOTAL_NUM_INVISIBLE]
-Recharged total ****** CNY
+Spent a total of ****** CNY
 
 [RECHARGE_HIDE_BTN]
 Hide
@@ -11130,7 +11130,7 @@ Hide
 Show
 
 [RECHARGE_NOTICE_TITLE]
-There are rewards for accumulative recharge!
+Rewards for Accumulative Recharge!
 
 [RECHARGE_NOTICE_DESC_FOR_LOTTERY]
 游戏内累计充满2 CNY, 游戏内获得双倍金币收入, 购买金币植物更迅速! 
@@ -11773,7 +11773,7 @@ Dr. Zomboss is coming... stay tuned.
 Kung-fu World - Day {LEVEL_NUMBER}
 
 [RNDBOSS_LEVEL_NAME]
-穿越时空僵王挑战
+Temporal Travels - Zomboss Challenge
 
 [PLANT_ADVENTURE]
 Plant Adventure
@@ -11798,21 +11798,21 @@ Waiting...
 
 [PLANT_ADVENTURE_BONUS_AD_BEFORE_WATCH]
 By watching an ad you can double the reward from an adventure!
-Remaining times:
+Remaining Uses:
 
 [PLANT_ADVENTURE_BONUS_AD_AFTER_WATCH]
 Congratulations! You have doubled your reward! 
-Remaining times:
+Remaining Uses:
 
 [INTRO_PLANTADVENTURE_START]
-Click start button to configure plant adventure.
+Click the start button to configure an adventure.
 
 [INTRO_PLANTADVENTURE_SKIP]
 Spending gems will skip adventure times and complete them instantly.
 It's free for the first time.
 
 [INTRO_PLANTADVENTURE_AUTO]
-Click here to auto configure the adventure.
+Click here to auto-configure the adventure.
 
 [INTRO_PLANTADVENTURE_BEGIN]
 After the team is complete, you can start the adventure!
@@ -11842,7 +11842,7 @@ Rewards:
 Total Time:
 
 [PLANT_ADVENTURE_DUNGEON_CHANCES_LEFT]
-Remaining times: {CHANCES}
+Remaining Times: {CHANCES}
 
 [PLANT_ADVENTURE_DUNGEON_TIME_LEFT]
 Time Remaining:
@@ -11851,10 +11851,10 @@ Time Remaining:
 Start
 
 [PLANT_DAVECLUB_PARTIN]
-去参加
+Participate
 
 [PLANT_SEVENDAYSLOGIN_AWARD]
-领取
+Recieve
 
 [PLANT_ADVENTURE_DUNGEON_SUSPEND]
 STOP
@@ -11867,13 +11867,13 @@ Congratulations, you unlocked ^FF0000 Plant Adventure ^oldclr!
 Now it's time to ^3DA538 send your plant team ^oldclr to ^FF0000 adventure ^oldclr there!
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_TEXT]
-Crystals of the week:
+Weekly Crystals:
 
 [PLANT_ADVENTURE_BONUS_CRYSTAL_LIMIT_TEXT]
 Limit Reached
 
 [PLANT_ADVENTURE_BONUS_TITLE]
-Adventure completed!
+Adventure Complete!
 
 [PLANT_ADVENTURE_BONUS_HINT]
 The plants have successfully returned from the ^00FF00 {DUNGEON} ^oldclr adventure,
@@ -11886,13 +11886,13 @@ Extra Rewards
 Complete Adventure
 
 [PLANT_ADVENTURE_SURPRISE_TITLE]
-Surprise! 
+Suprise Encounter
 
 [PLANT_ADVENTURE_SURPRISE_HINT]
-Report! We ran into a merchant while we were adventuring and Penny said he had what we wanted in a bag! 
+Report! We ran into a merchant while we were adventuring, his wares could be of your interest.
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_GIVEUP]
-No thanks
+No Thanks
 
 [PLANT_ADVENTURE_SURPRISE_BUTTON_OPEN]
 Buy for {GEMS} Gems
@@ -11904,19 +11904,19 @@ Free
 Sleepy Plants
  
 [PLANT_ADVENTURE_CONFIRM_BUY_PLANT_SPIRIT_DES]
-Some plants you have selected have not recovered yet, but you still can recover them immediately by spending {GEMS} gems. Are you sure want to?
+Some plants you have selected have not recovered yet, do you want to spend {GEMS} gems to start one regardless?
 
 [PLANT_ADVENTURE_AUTO_PLANT_FAILED]
 Sorry, your currently available plants aren't quaified for this adventure.
 
 [PLANT_ADVENTURE_SKIP_TITLE]
-Skip the adventure time?
+Skip Adventure Time?
 
 [PLANT_ADVENTURE_SKIP_TITLE_DES]
 Would you like to spend ^ff0000 {GEMS} gems ^oldclr or ^ff0000 watch an ad ^oldclr to help your plants complete their current adventure right away?
 
 [PLANT_ADVENTURE_FREESKIP_TITLE_DES]
-Use your monthly card authority to complete the current adventure task for free immediately?
+Use your monthly card authority to complete the current adventure for free immediately?
 
 [PLANT_ADVENTURE_ADD_CHANCE_BOTH_TITLE_DES]
 Would you like to spend ^ff0000 {GEMS} gems ^oldclr or ^ff0000 watch an ad ^oldclr to get an extra adventure?
@@ -11956,7 +11956,7 @@ CONFIRM
 CANCEL
 
 [PLANT_ADVENTURE_TEAMEDITOR_NEEDPLANTS]
-Plants needed: {PLANTS}
+Plants Needed: {PLANTS}
 
 [PLANT_ADVENTURE_TEAMEDITOR_PLANTTYPE]
 Plant Features:
@@ -12043,7 +12043,7 @@ Old Dang Yi Zhuang x1
 Full of Anger x1
 
 [ADVENTURE_FLAGS_DES_ILLLOOKING]
-Face disgusting good x1
+Ill-looking x1
 
 [ADVENTURE_FLAGS_DES_SHROOM]
 Mushroom x1
@@ -12052,13 +12052,13 @@ Mushroom x1
 Mystery Mage x1
 
 [ADVENTURE_FLAGS_DES_ELECTRIC]
-100,000 volts x1
+100,000 Volts x1
 
 [ADVENTURE_FLAGS_DES_AQUATIC]
 Aquatic x1
 
 [ADVENTURE_FLAGS_DES_FIRMTEETH]
-Sharp teeth x1
+Sharp Teeth x1
 
 [ADVENTURE_FLAGS_DES_PEA]
 Pea x1
@@ -12067,19 +12067,19 @@ Pea x1
 Weapon x1
 
 [ADVENTURE_FLAGS_DES_BROTHERS]
-Brothers in packs x1
+Brothers in Packs x1
 
 [ADVENTURE_FLAGS_DES_ROTATION]
 Whirlwind x1
 
 [ADVENTURE_FLAGS_DES_SUN]
-Endless sun x1
+Endless Sun x1
 
 [ADVENTURE_FLAGS_DES_TALL]
 Tall x1
 
 [ADVENTURE_FLAGS_DES_PEANUT]
-Both offense and defense x1
+Both Offense and Defense x1
 
 [ADVENTURE_FLAGS_DES_BURN]
 Fire x1
@@ -12171,7 +12171,7 @@ Oops, you don't have enough tickets for that! Are you sure you want to spend {NU
 Confirmation
 
 [LIMITED_GACHA_CONFIRM_TEXT]
-Oops, you don't have enough tickets for that! Are you sure you want to spend {PRICE} gems to exchange for {NUM} tickets and open the treasure?
+Oops, you don't have enough tickets for that! Are you sure you want to spend {PRICE} gems to exchange for {NUM} tickets?
 
 [LIMITED_GACHA_CONFIRM_TEXT_2]
 Are you sure you want to spend {PRICE} Penny Lottery's tickets to open?
@@ -12180,7 +12180,7 @@ Are you sure you want to spend {PRICE} Penny Lottery's tickets to open?
 OK
 
 [LIMITED_GACHA_CONFIRM_BUY_CANCEL]
-Cancel
+CANCEL
 
 [WORLDCUP_GAME_LEFT_TIME]
 倒计时:{NUMBER}
@@ -12287,11 +12287,10 @@ Space-time Black Hole Branch - Level {LEVEL_NUMBER}
 Black Hole!
 
 [RESTART_LEVEL_USE_STAMINA]
-你确定想要重新开始这一关卡吗？
-重新开始需要消耗一点体力. 
+Are you sure you want to restart this level?
 
 [RETURN_TO_WORLD_MAP]
-退回到大地图
+Return to World Map
 
 [FESTIVALGAME_TITLE]
 Daily Challenge
@@ -12300,10 +12299,10 @@ Daily Challenge
 Complete the normal mode to unlock this difficulty.
 
 [FESTIVALGAME_LEFTTIMES]
-Remaining times:
+Remaining Tries: 
 
 [FESTIVALGAME_LEFTTIME_HEAD]
-Today's challenge has been exhausted, come back tomorrow.
+Today's challenge has ended, come back tomorrow.
 
 [FESTIVALGAME_OPEN_TIME]
 Open in ^31FFE9
@@ -12328,10 +12327,10 @@ Would you like to spend ^FF0000 {GEM_COUNT} ^oldclr gems or ^FF0000 watch an ad 
 Buy
 
 [LOOK_MONTHLY_CARD]
-Check monthly card
+Check Monthly Card
 
 [LET_ME_THINK]
-让我想想
+Let me Think
 
 [FESTIVALGAMEMODE_CANNONGAME_TITLE]
 Coconut Cannon
@@ -12421,7 +12420,7 @@ Cabbage-pult Costume Piece
 Spring Bean Costume Piece
 
 [AVATAR_PIECE_OF_WALLNUT]
-小Wall-nut Costume Piece
+Wall-nut Costume Piece
 
 [AVATAR_PIECE_OF_TALLNUT]
 Tall-nut Costume Piece
@@ -17897,7 +17896,7 @@ There're payment items in-game. Payment restrictions for minors:
 趣味竞赛挑战说明
 
 [MINIGAME_RULE_TXT]
-1.本次趣味竞赛开放时间2024年11月8日至2024年11月21日, 每天开放一期小游戏. 
+1.本次趣味竞赛开放时间2025年3月12日至2025年3月25日，每天开放一期小游戏。
 
 2.在活动期间, 玩家每日没有挑战次数上限限制, 玩家成功通关小游戏关卡后会获得对应的积分与强化能量. 
 
@@ -17982,7 +17981,7 @@ There're payment items in-game. Payment restrictions for minors:
 雕像x{NUM}
 
 [CONSUMPTION_COUNT_REWARD]
-{NAME}x{COUNT}
+{NAME} x {COUNT}
 
 [TWO_YEAR_RECORD_1]
 从您第一次进入游戏至今已
@@ -18892,7 +18891,7 @@ Cancel
 街道更新补偿
 
 [SUPER_BOSS_COMING_SOON]
-All hard mode levels in this world must be completed to unlock!
+All hard mode levels in this world must be completed to unlock this level.
 
 [PVP_UPDATE_NOTICE_TEXT]
 我们调整了花园战争地图的结构. 现在您可以同时在
@@ -19001,13 +19000,13 @@ By spending {COST_NUM} gems to buy this item, you will get {PLANT_NAME} level {P
 Are you sure want to do this?
 
 [FREE_TIMES]
-x{NUMBER}
+x {NUMBER}
 
 [STAR_REWARD]
 星星兑换
 
 [UNIVERSE_NOT_OPEN]
-Complete Ancient Egypt to unlock Universe
+Complete Ancient Egypt to unlock other worlds.
 
 [ACTIVITY_SUMMERY_TAB_ZOMBIEBOSS]
 挑战僵博
@@ -19438,9 +19437,9 @@ Normal Chest
 Normal Chest x10
 
 [GACHA_ITEM_NORMAL_DES]
-Get ^FF0000 {NUMBER} ^oldclr coins
-Bonus plant or plant pieces
-Includes: ^a3a3a3 White, ^oldclr ^4ca830 Green, ^oldclr ^3365ce Blue, ^oldclr ^7300c7 Purple ^oldclr
+Comes with an extra ^FF0000 {NUMBER} ^oldclr Coins!
+Contains plants or plant pieces.
+Includes: ^a3a3a3 White, ^oldclr ^4ca830 Green, ^oldclr ^3365ce Blue ^oldclr and ^7300c7 Purple. ^oldclr
 
 [GACHA_ITEM_RARE_HEADER]
 Rare Chest
@@ -19449,9 +19448,9 @@ Rare Chest
 Rare Chest x10
 
 [GACHA_ITEM_RARE_DES]
-Get ^FF0000 {NUMBER} ^oldclr coins
-Bonus plant or plant pieces
-Includes: ^3365ce Blue, ^oldclr ^7300c7 Purple, ^oldclr ^ef7600 Orange ^oldclr
+Comes with an extra ^FF0000 {NUMBER} ^oldclr Coins!
+Contains plants or plant pieces.
+Includes: ^3365ce Blue, ^oldclr ^7300c7 Purple ^oldclr and ^ef7600 Orange. ^oldclr
 
 [GACHA_ITEM_LEGEND_HEADER]
 Legendary Chest
@@ -19460,9 +19459,9 @@ Legendary Chest
 Legendary Chest x10
 
 [GACHA_ITEM_LEGEND_DES]
-Get ^FF0000 {NUMBER} ^oldclr coins
-Possibility to get plants and plants pieces
-Includes: ^7300c7 Purple, ^oldclr ^ef7600 Orange ^oldclr
+Comes with an extra ^FF0000 {NUMBER} ^oldclr Coins!
+Contains plants or plant pieces.
+Includes: ^7300c7 Purple ^oldclr and ^ef7600 Orange. ^oldclr
 
 [GACHA_ITEM_AVATAR_HEADER]
 Costume Chest
@@ -19471,8 +19470,8 @@ Costume Chest
 Costume Chest x10
 
 [GACHA_ITEM_AVATAR_DES]
-Get ^FF0000 {NUMBER} ^oldclr coins
-Includes Costume or Costume pieces
+Comes with an extra ^FF0000 {NUMBER} ^oldclr Coins!
+Contains Costumes or Costume pieces.
 
 [GACHA_ITEM_PREVIEW]
 Open
@@ -19513,16 +19512,16 @@ Includes Costume or Costume pieces
 {NUMBER} Open
 
 [GACHA_ACTIVITY_CLOSED]
-Event is not open
+This event is closed.
 
 [GACHA_ACTIVITY_DATA_ERROR]
-Activity configuration error
+There was an error gathering data for this event.
 
 [GACHA_ACTIVITY_DATA_LOST]
-Activity configuration is lost
+The data for this event has been lost.
 
 [GACHA_DRAW_FAILED]
-Unable to open treasure
+Unable to Open Treasure, come back later.
 
 [EIGHTIES]
 Neon Mixtape Tour
@@ -19552,6 +19551,7 @@ CONTINUE
 AGE
 
 [AGE_GATE_GERMAN_LAW_TEXT]
+Durch Klicken des Buttons „Weiter“ bestätige ich, dass ich die Nutzervereinbarung und die Datenschutz- und Cookie-Richtlinie gelesen habe und akzeptiere. Ich bestätige weiter, dass ich mit der Verarbeitung meiner personenbezogenen Daten gemäß der Einwilligungserklärung in der Datenschutz- und Cookie-Richtlinie einverstanden bin.
 
 [AGE_GATE_TITLE]
 Please tell us your age.
@@ -23885,40 +23885,40 @@ Obtained from getting enough Beans in a Growth Pack Event.
 Thinkin' about them beans.
 
 [PENNYCLASS_FIRST]
-植物学士
+Penny's Scholar
 
 [PENNYCLASS_FIRST_HEAD_ID_25349]
-植物学士
+Penny's Scholar
 
 [PENNYCLASS_FIRST_HEAD_DES_ID_25349]
-潘妮课堂入门考试完成的证明
+Clear the Intro Test in Penny's Classroom.
 
 [PENNYCLASS_SECOND]
-植物硕士
+Penny's Accolate
 
 [PENNYCLASS_SECOND_HEAD_ID_25350]
-植物硕士
+Penny's Accolate
 
 [PENNYCLASS_SECOND_HEAD_DES_ID_25350]
-潘妮课堂初级训练完成的证明
+Clear the Primary Training in Penny's Classroom.
 
 [PENNYCLASS_THIRD]
-植物博士
+Penny's Bachelor
 
 [PENNYCLASS_THIRD_HEAD_ID_25351]
-植物博士
+Penny's Bachelor
 
 [PENNYCLASS_THIRD_HEAD_DES_ID_25351]
-潘妮课堂进阶考核完成的证明
+Clear the Advanced Exam in Penny's Classroom.
 
 [PENNYCLASS_FOURTH]
-植物大师
+Penny's Professor
 
 [PENNYCLASS_FOURTH_HEAD_ID_25352]
-植物大师
+Penny's Professor
 
 [PENNYCLASS_FOURTH_HEAD_DES_ID_25352]
-潘妮课堂终极试炼完成的证明
+Clear the Ultimate Trial in Penny's Classroom.
 
 [USERINFO_1]
 Please fill in your info so that you will be notified in time when your rewards are given. (The item with ^FF0000^*^oldclr^ is required)
@@ -24272,7 +24272,7 @@ Value
 Purchase Limit: ^FF0000 {NUMBER} ^oldclr
 
 [RECHARGEBUNDLE_ORIGINAL_PRICE]
-Normal Price
+Usual Price:
 
 [RECHARGEBUNDLE_CAN_OBTAIN]
 Includes:
@@ -26679,13 +26679,13 @@ Tasks
 四等奖励: 18.87%      五等奖励: 22.64%
 
 [ARBORDAY]
-Temporal Treasure Hunt
+Arbor Day
 
 [GROWING_TASK]
-Charging Task
+Growing Task
 
 [ARBORDAY_BUNDDLE]
-Battery Bundle
+Watering Can Bundle
 
 [ARBORDAY_BUY_BUNDLE_CONFIRM]
 Would you like to spend {NUM} gems to purchase the bundle?
@@ -26697,10 +26697,10 @@ Would you like to spend {NUM} gems to purchase the bundle?
 全服进度: ^FFFF00 {NUM} ^oldclr 次
 
 [ARBORDAY_NEXT_HARVEST]
-It needs to be charged ^FFFF00 {NUM} ^oldclr times before the next activation.
+It needs to be watered ^FFFF00 {NUM} ^oldclr times before the next activation.
 
 [ARBOARDAY_SURE_WATER]
-Would you like to spend {NUM} to charge the battery?
+Would you like to spend {NUM} to water the tree?
  
 [ARBOARDAY_KETTLE_NOT_ENOUGH]
 Oops, you don't have enough resources for that!
@@ -26718,7 +26718,7 @@ x{NUM} Refresh
 You got {NUM} {NAME}
 
 [MAT_ARBORDAY_KETTLE]
-Battery
+Watering Can
 
 [ARBORDAY_FULL]
 奖励已满, 请先领取奖励
@@ -37312,7 +37312,7 @@ Impact Tornado
 After all fountains erupt, a waterspout will appear on the far side of the lawn. When the waterspout moves, it will attract all zombies within 5 rows to the center, then push them to column 9, Gargantuars will return to normal after being pushed 3 times.
 
 [PARTYEPSACTIVITY_HEAD_ID_25534]
-Party Pea
+Party Gatling
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25534]
 Completed tasks in Gatling Pea's Party Assistance event.
@@ -37974,7 +37974,7 @@ You don't have enough gold ingots, would you like to buy more?
 
 [TREASURE_PAVILION_DESCRIPTION]
 Activity Rules:
-1.The Treasure Pavilion event is open between 0:00 on April 25th to 24:00 on May 8th
+1.The Treasure Pavilion event is open between 0:00 on March 18th and 24:00 on March 31st
 2.The activity requires gold ingots to open the treasure chest. A single draw consumes 1 gold ingots, and ten consecutive draws consume 9 gold ingots. Gold ingots need to be purchased through the event store.
 3.Every time you open the treasure chest, you have a chance to win the grand prize pool. A total of 30 draws will win an excellent prize and above. A total of 60 draws will win a top prize and above. A total of 90 draws will win give 2 or more divine prizes. A total of 180 times will give a must-win divine item reward 1 (only one of the props will be awarded each time you must win)
 4.When you get the grand prize, you will get one of them according to the probability from all the grand prizes.
@@ -38665,8 +38665,7 @@ Silly Box
 
 [SECTION_RAGNAROK]
 [ADVICE_SEED_REFRESH_IZOMBIE]
-僵尸需要一段时间的
-恢复才能再次使用
+Zombotanies take some time to recharge before they can be planted again.
 
 [RANK_AVATAR_CONTENT_TITLE_61026]
 飞车假日
@@ -39828,7 +39827,7 @@ You've favourited too many Artifacts!
 通关后获取的代币数量增加
 
 [MINI_GAME_PERK_NAME_ITEM_KILL_ALL_ZOMBIES]
-秒杀场上所有的僵尸
+秒杀场上一般僵尸
 
 [MINI_GAME_PERK_NAME_SPECIAL_ITEM_X_RAY]
 透视镜
@@ -40061,22 +40060,25 @@ Completed tasks in Parkour Mandrake's Party Assistance event.
 Parkour Mandrake loves this outfit: not only is it incredibly cool, but also practical! Even if he swears he "totally" never hurt himself parkouring before.
 
 [PARTYEPSACTIVITY_HEAD_ID_25571]
-Party Peel
+Party Banana
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25571]
-派对助力活动限定头像
+Completed tasks in Electric Peel's Party Assistance event.
+Electric Peel used to love puppet shows, and just as he thought he was about to grow out of them, he got gifted these adorable hand puppets.
 
 [PARTYEPSACTIVITY_HEAD_ID_25572]
-派对扇贝兰
+Party Orchid
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25572]
-派对助力活动限定头像
+Completed tasks in Orchid Mage's Party Assistance event.
+While studying for her wizardry exams, Orchid Mage once opened a rift through reality, where she could briefly witness what looked like an alternate version of herself...
 
 [PARTYEPSACTIVITY_HEAD_ID_25573]
-派对猕猴桃
+Party Kiwi
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25573]
-派对助力活动限定头像
+Completed tasks in Monkiwi's Party Assistance event.
+Monkiwi has read through Journey to the West more times than you could count. Calling him a fanatic is an understatement.
 
 [NUMBERLOGINS_HEAD_ID_25590]
 Black Iron Gardener
@@ -40445,6 +40447,7 @@ Pushes other nearby zombies forwards a few tiles.
 1、礼盒内预置了许多物品, 玩家可自己选择若干奖励放入栏位内. 购买选好内容的礼包后可以获得对应物品. 
 2、每个礼包每日限购一次. 
 3、礼包共有6个档位, 每个档位包含的内容不同. 
+4、当礼盒界面的物品全部购买完后，会自动刷新一套奖励配置（不消耗刷新次数）。
 
 [FUTURE_GIFT_TICKETS_NOT_ENOUGH]
 当前礼盒金币不足, 是否跳转商店界面购买？
@@ -41207,7 +41210,7 @@ Glacial Nian Beast
 瓜分奖池
 
 [HARVEST_BATTLE_HEAD_ID_25595]
-秋日贵族
+Autumn Noble
 
 [HARVEST_BATTLE_HEAD_DES_ID_25595]
 在秋收大作战活动中, 通过超级玉米兑换
@@ -41369,25 +41372,25 @@ Glacial Nian Beast
 本月任务持续到10月31日
 
 [TOURISMOCTOBER_MAIN_TIPS_INFO]
-1.玩家可以通过完成每日任务和本月任务来获取活动代币
+1.玩家可以通过完成每日任务、本月任务和个人任务来获取活动代币
 2.活动代币可在兑换商店换取丰厚奖励, 代币不会继承到下一期
-3.每日任务每天刷新, 本月任务不刷新只能完成一次
+3.每日任务每天刷新，本月任务与个人任务不刷新只能完成一次
 4.小队成员最多三人, 第一个同意其他玩家进入队伍的玩家成为队长！
 5.加入小队后只有队长决定其他玩家是否进入小队, 已入组的不能再填写邀请码
 6.小队成员完成任务后, 其他组员也可以领取相同数量的奖励哦
-
+7.本期同游任务中，新增个人任务挑战，积分获取升级，有更多积分兑换奖励啦！（个人任务代币仅可自己领取，队友不共享奖励）
 
 [ZOMBIE_DARK_KING_ELITE]
 Tyrant Zombie
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION_HEADER]
-精英国王僵尸具备韧性条机制, 物理属性攻击可削减其韧性(眩晕效果可以进行高额削减), 清空韧性条将使僵尸进入虚弱状态, 该状态下僵尸不会行动及进攻, 直至韧性条恢复完毕. 当僵尸拥有韧性值时, 可为其提供承伤上限效果. 
+Upgrades other Dark Ages zombies into mightier foes, while also spawning some of his own.
 [ZOMBIE_DARK_KING_ELITE_DESCRIPTION]
 在那个由愚蠢统治着的黑暗时代, 一代代僵尸们努力奋斗, 终于发现了利用重重的黄金压晕他们的君主, 从而帮助君主长眠的好方法. 这个伟大的新时代被僵史学家称为黄金时代. 
 
 [ZOMBIE_DARK_WIZARD_ELITE]
 Warlock Zombie
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION_HEADER]
-精英魔法师僵尸具备韧性条机制, 物理属性攻击可削减其韧性(眩晕效果可以进行高额削减), 清空韧性条将使僵尸进入虚弱状态, 该状态下僵尸不会行动及进攻, 直至韧性条恢复完毕. 当僵尸拥有韧性值时, 可为其提供承伤上限效果. 
+Sheepifies plants at an unberable rate and can block Plant Food entirely for some time if kept alive for long enough.
 [ZOMBIE_DARK_WIZARD_ELITE_DESCRIPTION]
 在某一次魔法师大会上, 一个见多识广的魔法师僵尸提出, 魔法书可以用来垫桌角. 这震惊了在场的所有僵尸. 
 从此以后, 成功学会这项高新技术的都成为了魔法师僵尸中的精英. 
@@ -41400,10 +41403,10 @@ Wicked Empress Zombie
 魔镜皇后僵尸每天花大量的时间沉醉在魔镜中的自己. 她幻想魔镜中的自己比现在更强大, 更美丽. 某一天, 魔镜终于回应了皇后的愿望. 
 
 [NIGHTTHETOY_TIP]
-黑洞商店
+碎片商店
 
 [NIGHTTHETOY_SHOP]
-黑洞商店
+碎片商店
 
 [NIGHTTHETOY_TASK]
 活动任务
@@ -41424,19 +41427,19 @@ Wicked Empress Zombie
 ^FFFF00 {NAME} ^oldclr 抽取了 ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-黑洞奇幻旅
+国风怀古行
 
 [TOYNIGHT_TITLE]
-黑洞奇幻旅
+国风怀古行
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-初级星币礼包
+初级玉石礼包
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-中级星币礼包
+中级玉石礼包
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-高级星币礼包
+高级玉石礼包
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 初级限购礼包
@@ -41448,62 +41451,62 @@ Wicked Empress Zombie
 首次进入活动
 
 [TOYNIGHT_TASK_2]
-获得瓷砖萝卜超级装扮
+获得芦藜药师超级装扮
 
 [TOYNIGHT_TASK_3]
-获得蛇妖瓶子草三个全部装扮
+获得芦藜药师三个全部装扮
 
 [MAT_TOY_PARTS]
-小型黑洞
+玉石碎片
 
 [MAT_TOY_PARTS_USE]
-在黑洞奇幻旅活动黑洞商店中兑换奖励
+在国风怀古行活动碎片商店中兑换奖励
 
 [MAT_TOY_PARTS_GOT_WAY]
-在黑洞奇幻旅活动中通过抽取获得
+在国风怀古行活动中通过抽取获得
 
 [MAT_TOY_CLOCKWORK]
-星星币
+玉石
 
 [MAT_TOY_CLOCKWORK_USE]
-在黑洞奇幻旅活动中抽奖消耗的道具
+在国风怀古行活动中抽奖消耗的道具
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-在黑洞奇幻旅活动礼包商店中购买获得
+在国风怀古行活动礼包商店中购买获得
 
 [TOY_NIGHT_EXPIRED]
 黑洞奇幻旅过期奖励
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 活动规则：
-1、通过购买礼包获得星星币，消耗星星币在活动中抽取奖励，星星币与小型黑洞无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
-2、每次抽奖有概率获得小型黑洞或其他奖励，幸运的小僵僵有概率直接获取瓷砖萝卜超级装扮。
+1、通过购买礼包获得玉石，消耗玉石在活动中抽取奖励，玉石与玉石碎片无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
+2、每次抽奖有概率获得玉石碎片或其他奖励，幸运的小僵僵有概率直接获取芦藜药师超级装扮。
 3、若连续20次内抽奖未抽到大奖，则下次抽奖奖励会在保底奖池中抽取。
-4、重复抽到的超级装扮会自动转化为200个小型黑洞奖励。
+4、重复抽到的超级装扮会自动转化为200个玉石碎片奖励。
 
 保底奖池概率：
-瓷砖萝卜超级装扮：    3.72%    大奖
-小型黑洞*1300：      5.28%    大奖
-小型黑洞*700：      12.55%    大奖
-小型黑洞*500：      11.10%    大奖
+芦藜药师超级装扮：    3.72%    大奖
+玉石碎片*1300：      5.28%    大奖
+玉石碎片*700：      12.55%    大奖
+玉石碎片*500：      11.10%    大奖
 钻石*1888：         32.17%    大奖
 潘妮秘宝券*10：      35.18%    大奖
 
 奖励概率公示：
-瓷砖萝卜超级装扮：  0.17%    大奖
-小型黑洞*1300：    0.21%    大奖
-小型黑洞*700：     0.43%    大奖
-小型黑洞*500：     0.85%    大奖
-小型黑洞*100：     6.09%    普通
-小型黑洞*50：     16.00%    普通
-小型黑洞*20：     12.00%    普通
-小型黑洞*10：     35.00%    普通
+芦藜药师超级装扮：  0.17%    大奖
+玉石碎片*1300：    0.21%    大奖
+玉石碎片*700：     0.43%    大奖
+玉石碎片*500：     0.85%    大奖
+玉石碎片*100：     6.09%    普通
+玉石碎片*50：     16.00%    普通
+玉石碎片*20：     12.00%    普通
+玉石碎片*10：     35.00%    普通
 装扮券*500：       2.50%    普通
 装扮券*100：       9.75%    普通
 潘妮秘宝券*1：     17.00%    普通
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-如已拥有,自动转换为积分奖励
+如已拥有,自动转换为玉石碎片奖励
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 活动说明
@@ -41566,7 +41569,7 @@ Anime-style Outfit
 Attack power increased by 30%.
 
 [GINGLEBELL_TITLE]
-Spring Festival's Jingle Bells
+Arbor Day's Jingle Bells
 
 [GINGLEBELL_RANK_DAMAGE_TEXT]
 Cumulative Damage
@@ -41585,11 +41588,11 @@ Jingle Bells Description
 
 [GINGLEBELL_DESCRIPTION]
 Activity rules:
-1. All damage caused to the Money Tree Zombies within a limited time is your total score.
+1. All damage caused to the Fat Weasels within a limited time is your total score.
 2. The points obtained through the latest unlocked levels are used to complete daily bonus missions, which are refreshed every day.
 3. During the activity time, three themes (firepower, accuracy, and tactical tests) will be unlocked in turn, each with three levels. A new level unlocks every two days and a new theme every six days.
 4. The leaderboard will be sorted according to the sum of the scores of the three levels under the latest theme. After unlocking the new theme, the list will be closed for anti-cheating detection from 0:00 to 10:00. During the detection period, the levels under the latest theme cannot be played.
-5. After the ranking is over, the ranking rewards will be automatically issued. Abnormal scores will not be counted. The leaderboard will be displayed for one day on January 11'th, and the level cannot be challenged during this period.
+5. After the ranking is over, the ranking rewards will be automatically issued. Abnormal scores will not be counted. The leaderboard will be displayed for one day on March 30'th, and the level cannot be challenged during this period.
 
 [GINGLEBELL_RANK]
 Your ranking: {NUMBER}
@@ -41622,37 +41625,37 @@ Total Damage: {NUMBER}
 Deal as much damage in 30 seconds!
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Spring Festival's Jingle Bells
+Arbor Day's Jingle Bells
 
 [GINGLEBELL_TASKDESCRIPTION]
 Deal a total of {NUMBER} damage.
 
 [A_PILE_SNOWMEN1_TITLE]
-Firepower Test - I
+Firepower Test - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Firepower Test - II
+Firepower Test - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Firepower Test - III
+Firepower Test - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Accuracy Test - I
+Accuracy Test - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Accuracy Test - II
+Accuracy Test - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Accuracy Test - III
+Accuracy Test - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Tactical Test - I
+Tactical Test - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Tactical Test - II
+Tactical Test - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Tactical Test - III
+Tactical Test - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Do the most damage you can in 30 seconds!
@@ -41869,7 +41872,7 @@ Abnormal Game Detected
 Abnormal gameplay has been detected, the game will now exit.
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s hunt for gold!
+{PLAYER}'s weasel war!
 
 [ICEWEED]
 Iceweed
@@ -42021,7 +42024,7 @@ Collected all stars in Frostbite Caves Resurgence (2024).
 Don't worry(?), he's fine in there. Zombies don't feel pain, or much else really.
 
 [PARTYEPSACTIVITY_HEAD_ID_25627]
-派对聚能山竹
+Party Mangosteen
 
 [PARTYEPSACTIVITY_HEAD_DES_ID_25627]
 派对助力活动限定头像
@@ -42382,7 +42385,7 @@ P.U. 42 Wall-nut
 Blocks off zombies and protects your other plants
 
 [PARALLEL_WALLNUT_DESCRIPTION_HEADER]
-Wall-nut is the same as ever, but now with a much lower recharge time, making them easiee to set up fast.
+Wall-nut is the same as ever, but now with a much lower recharge time, making them easier to set up fast.
 
 [PARALLEL_WALLNUT_DESCRIPTION]
 
@@ -42639,11 +42642,11 @@ When Worlds Collide
 Bought from Parallel Universe No. 42's shop.
 Great work! Only 2 billion more universes to go! Maybe start with 213 and 215...
 
-[PARTYEPSACTIVITY_HEAD_DES_ID_25573]
-派对助力活动限定头像
-
 [PARTYEPSACTIVITY_HEAD_ID_25644]
-派对女娲蛇尾草
+Party Nyuwa
+
+[PARTYEPSACTIVITY_HEAD_ID_DES_25644]
+TBA
 
 [PVZ2_UNCHARTED_MODE_NO42_UNIVERSE_TIPS_DESC]
 1.困难模式最后一关通关后可解锁无尽模式。
@@ -43027,7 +43030,6 @@ New Year's Greetings
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25632]
 Spend a cumulitive 700 CNY on packages in the New Year Gift Pack event.
-在新年礼包活动期间，达到活动中累计充值进度领取
 
 [TEN_THOUSAND_HEAD_ID_25636]
 Flower of Fortune
@@ -43077,22 +43079,968 @@ A mark of the truest of dedicated whales. The support you have given is exactly 
 [REDPACKETWIDGET_DES_LUCK_DESCRIPTION]
 恭喜您被选中成为今日最幸运玩家
 
+[rank_avatar_diy_38]
+惊魂万圣夜
+
+[rank_avatar_diy_39]
+别忘了绅士
+
+[rank_avatar_diy_40]
+圣诞快乐
+
+[rank_avatar_diy_41]
+万物复苏
+
+[BUBBLECORAL_FAMILY]
+仙人掌科
+[BUBBLECORAL_GENUS]
+仙人掌属
+[BUBBLECORAL_PEDIA]
+姬珊瑚：多肉界的“招财手”
+    多年生肉质小灌木。
+    株高约15厘米，茎细圆柱形茎肉质，呈珊瑚状分枝。茎表面密布白色刺座，着生细小白刺；花顶生，粉红色或白色；浆果椭球型。花期为夏季，果期为秋季。
+    株形小巧的植物常用“姬”来命名，丛生形态似珊瑚而得名，又因茎干细长条状名“仙人条”，多分枝似手掌而名“招财手”。原产墨西哥和美国西南部，现各地多栽培用作多肉观赏盆栽。
+
+
+[WINTERRAMBUTAN_FAMILY]
+无患子科
+[WINTERRAMBUTAN_GENUS]
+韶子属
+[WINTERRAMBUTAN_PEDIA]
+红毛丹——热带果林的毛荔枝
+    常绿乔木。
+    高10余米；羽状复叶互生，小叶2-3对，薄革质椭圆形。聚伞圆锥花序顶生或腋生，花小，单性，无花瓣，雌雄异株。果实椭圆形，红色，长约5厘米，果皮密被柔软刺，假种皮肉质白色（食用部分）与种皮粘连，包裹种子。花期夏初，果期秋初。
+    原产亚洲热带，马来群岛一带种植较多，通称“Rambutan”（意为“毛茸茸的果子”），因果实形态和口味与荔枝相似也常被称为“毛荔枝”，是东南亚地区备受喜爱的水果。此外，其果壳可煎茶或作染料，树皮和根也可做茶饮，有降火消炎之效。
+    
+[BURDOCKBATTER_FAMILY]
+菊科
+[BURDOCKBATTER_GENUS]
+牛蒡属
+[BURDOCKBATTER_PEDIA]
+牛蒡——药食两用的“牛尾”根
+    二年生草本植物。
+    植株高可达2米，肉质直根，圆柱形，长可达1米；茎直立，粗壮，带紫色；叶宽卵形，长可达30厘米；头状花序在茎顶排成疏松的或圆锥状伞房花序，总苞卵球形，苞片顶端有倒钩刺，果实成熟期可帮助果实挂附在动物皮毛上帮其传播至远方；小花紫红色；瘦果倒长卵形，浅褐色。花果期6-9月。
+    因其植株粗壮似“牛”，野外丛生为“蒡”而得名，另一说因其根似牛尾得名。广布欧亚大陆，因其肉质根味道清香，且有清热解毒、疏风利咽之效，为东亚地区广受欢迎的保健食材，各国各地也普遍栽培。其果实也可入药，具疏散风热等功效。
 
 
 
+[JEWELRABBIT_FAMILY]
+番杏科
+[JEWELRABBIT_GENUS]
+碧光环属
+[JEWELRABBIT_PEDIA]
+碧光环——多肉界的“小兔子”
+    多年生草本植物。
+    株高可达15厘米；茎褐色肉质，顶端生对生的肉质叶组成，呈半球形；新叶从中长出，细长对生，形似兔耳；花白色，果实呈元宝形。花果期因地域和养护条件而异，一般在秋季至春季间。
+    因叶片形态常被多肉植物爱好者称为“小兔子”，原产南非。因其可爱的形态而常作为盆栽观赏，喜温暖和散射光充足的环境，耐旱忌涝，忌强光暴晒。
+
+
+[HEATHSEEKER_FAMILY]
+杜鹃花科
+[HEATHSEEKER_GENUS]
+欧石南属
+[HEATHSEEKER_PEDIA]
+欧石南——欧洲荒野坚韧之花
+    常绿灌木。
+    植株矮小（20-150厘米）；叶片细条状，多枚轮生于枝上；花紫红、粉红或白色等，球状到管状，顶端4裂，花小（花径约5毫米），多几十朵生于枝端形成一串可爱的小铃铛；果为蒴果，包含在宿存花萼和花冠内。花期为冬季及早春，果期为春季。
+    原产欧洲和非洲的荒原和山地，其属学名“Erica”源自希腊语“ereikō”，意为“打破”，指其生命力顽强，能打破贫瘠土壤而生长。是欧洲冬季最常见的观赏花卉，为挪威国花，欧洲文学作品中常出现其身影。此外，其植株可用于提取精油，具有镇静、抗菌等功效。
+    花语：孤独、勇敢、坚韧
+
+
+[GARDENERGRASS_FAMILY]
+山龙眼科
+
+[GARDENERGRASS_GENUS]
+帝王花属
+[GARDENERGRASS_PEDIA]
+帝王花：南非的国花
+    常绿灌木。
+    植株高约1米；叶片互生，革质长椭圆形；头状花序，形如睡莲，直径可达30厘米；由众多小花组成，外围苞片花瓣状，红色或粉红色；果实椭圆形，种子棕色扁平卵形。花期春至夏初，果期为夏季。
+    因花序形似皇冠而得名，原产南非各地，深受民众喜爱而普遍种植，为南非国花。作为外来花卉，常音译其名“Protea”而被称为“卜若地”、“普蒂亚”等，因其富贵华丽的外表常用作鲜切花。
+
+
+[INFERNO_FAMILY]
+碗蕨科
+[INFERNO_GENUS]
+蕨属
+[INFERNO_PEDIA]
+蕨——美味又危险的古老野菜
+    多年生草本植物。
+    株高可达1米；根状茎长而横走；幼叶呈紧密的“拳头状”卷曲，成熟后展开为大型羽状复叶，长可达1-3米，叶背边缘生有呈褐色线状排列的孢子囊群。蕨类植物非常古老，其演化历史可追溯到志留纪末期（约4.2亿年前），它们没有真正的花和果，依靠孢子繁殖。
+    蕨的适应力极强，全球热带及温带地区均有分布，我国主要产长江流域及以北地区，生山坡、林缘等湿润半阴环境。其嫩叶可食，爽脆清香，俗称“蕨菜”或“拳菜”；根状茎可提取“蕨根粉”做粉条或蕨饼食用，因此川南地区称其为“米蕨”。但应注意其含原蕨苷，长期大量食用可能增加胃癌、食道癌风险。
+    花语：野蛮生长、危险的诱惑
 
 
 
+[BROMELBLADE_FAMILY]
+凤梨科
+[BROMELBLADE_GENUS]
+丽穗凤梨属
+[BROMELBLADE_PEDIA]
+鹦哥丽穗凤梨——热带雨林的绚丽精灵
+    附生多年生常绿草本植物。
+    植株高30-60厘米；叶片革质带状，呈莲座状排列；花序顶生；穗状花序，苞片鲜艳，基部红色，上部黄色；花黄色，花瓣3枚；蒴果，成熟时会自动裂开，种子具毛，可随风飘荡将种子传播至远方。花期多为春季，果期为春夏之交。
+    因其花序上具层层叠叠的红色或黄色的苞片，如鹦鹉羽毛或火剑而得名鹦哥丽穗凤梨或火剑（箭）凤梨，观赏期长达数月。原产巴西，为当地热带雨林中常见的附生植物，其叶片具有吸收水分的鳞片，基部呈鞘状，雨水沿叶面流入由叶鞘形成的“贮水器”，不仅能帮助其渡过旱季，还为其它小型生物提供了水源和栖息地。
+
+
+[ELEOCURLING_FAMILY]
+莎草科
+[ELEOCURLING_GENUS]
+荸荠属
+[ELEOCURLING_PEDIA]
+荸荠——地下雪梨
+    多年生水生草本植物。
+    具细长匍匐根状茎，顶端生扁球形块茎，表皮栗红色；茎秆丛生，圆柱状，高15-60厘米；叶退化，只在杆基部有2-3个膜质叶鞘；多朵花形成圆柱状小穗顶生，淡绿色；小坚果宽倒卵形，棕黄色，双凸状。花果期5-10月。
+    因其球茎颜色形态又名“马蹄”，富含淀粉，生食脆甜，被誉为“地下雪梨”，亦可炒菜、炖汤或制成马蹄糕、糖水等甜点，是我国江南水乡特色美食之一。此外，也可供药用，可健胃消食。现我国各地均有栽培，朝鲜、日本、越南、印度也有分布。
+
+
+[MONOTROPA_FAMILY]
+杜鹃花科
+
+[MONOTROPA_GENUS]
+水晶兰属
+[MONOTROPA_PEDIA]
+水晶兰：幽林中的水晶之花
+    多年生草本植物。
+    茎直立不分枝，高10-30厘米，全株无叶绿素，白色，肉质；根细而分枝密，交结成鸟巢状；叶片鳞片状，互生；花单生茎顶，筒状钟形，花瓣5-6片，半透明白色；雄蕊10-12枚，雌蕊单生，花柱头膨大成漏斗状；果实椭圆球形，直立，向上，长1.3-1.4厘米。花期为6-9月；果期9-11月。
+    为腐生植物，因无叶绿素而不能产生光合作用，而是依赖分解有机物质来获取营养生长，因此要生长在腐殖质丰富的土壤中。集中分布于我国西南和西北地区海拔800-3850米的山地林下，苏联、日本、印度、东南亚、北美也有分布。
+
+
+[HOLLYKNIGHT_FAMILY]
+冬青科
+[HOLLYKNIGHT_GENUS]
+冬青属
+[HOLLYKNIGHT_PEDIA]
+欧洲冬青——圣诞冬青
+    常绿灌木或小乔木。
+    植株高10-25米；叶片革质，深绿色，椭圆形，边缘波状具尖刺；雌雄异株；花小簇生叶腋，花瓣白色，4枚；核果球形，直径6-10毫米，成熟时鲜红色。花期4-5月，果期10-翌年2月。
+    因叶片冬季叶片常青而得名，原产欧洲西南部及北非、西亚。其树干宜作尺、美术工艺品等，染色后可以代替乌木使用。欧洲冬青也叫“圣诞冬青”，欧洲家庭用它制作圣诞花环来迎接圣诞节，他们相信其红色浆果是太阳的化身，能驱散冬夜的黑暗和魔鬼。
+
+
+[PARSNIP_FAMILY]
+伞形科
+[PARSNIP_GENUS]
+欧防风属
+[PARSNIP_PEDIA]
+欧防风——欧洲的白色胡萝卜
+    二年生草本植物。
+    高可达1.6米；根肉质，圆锥形，淡棕黄色，长达30厘米；叶片羽状分裂，深绿色；复伞形花序，花小，花瓣5枚，黄色；果实成熟时常分裂成2个分生果，果卵圆形至倒卵形，具棱。花果期6-8月。
+    因其原产欧洲且与我国中药植物防风形似而得名，又因其叶片似芹菜，根形似胡萝卜，民间俗称“芹菜萝卜”。其肉质根质地细腻，味道甘甜，是欧洲传统根茎类蔬菜，此外还可做饲料或酿酒。现主要在欧美国家大量栽培，我国偶有栽培。
+
+
+[WASABIWHIP_FAMILY]
+十字花科
+[WASABIWHIP_GENUS]
+山艹俞菜属
+[WASABIWHIP_PEDIA]
+山葵——山间的辛辣珍宝
+    多年生草本植物。
+    植株高20-50厘米；根状茎肉质，长10-30厘米；基生呈莲座状，叶片心形或肾形，边缘具波状齿，茎生叶宽卵形，掌状叶脉；总状花序，花白色，花瓣4枚排成“十字形”，雄蕊6枚，雌蕊1枚；果实线形圆柱状，种子长圆形。花期3-5月，果期5-6月。
+    山葵根茎富含辛辣成分，研磨后可作为调味品即“山葵酱”，在日式料理中广泛应用。原产日本和韩国等，台湾有归化，现多地有栽培。
+
+
+[DRAGONROAR_FAMILY]
+猪笼草科
+
+[DRAGONROAR_GENUS]
+猪笼草属
+[DRAGONROAR_PEDIA]
+猪笼草——食虫植物界的“陷阱大师”
+    直立或攀援草本。
+    株高0.5-2米；叶由叶柄（短近无）、叶片、卷须和捕虫笼构成，因捕虫笼形似猪笼而得名。捕虫笼由瓶状体和笼盖两部分构成，其上密布能分泌蜜露的紫红色斑点，瓶口尤其密集，因此能吸引昆虫来到瓶口，一不小心就滑落瓶内，被瓶底分泌的消化液淹死并分解成营养物质，逐渐消化吸收。笼盖可以防止雨水进入笼中，避免稀释笼中消化液的浓度。其花序总状，雌雄异花，花红至紫红色。花期4-11月，果期8-12月。
+    猪笼草主要分布于热带地区的沼泽、路边、山中林下等，因其独特的形态和食虫习性，常被作为观赏植物栽培。此外，在东南亚地区，会将米、肉等食材塞入苹果猪笼草的捕虫笼蒸熟做成“猪笼草饭”；干燥的茎叶入药有清热止咳、利尿降压之效。
+
+
+[NEKOTAIL_FAMILY]
+香蒲科
+[NEKOTAIL_GENUS]
+香蒲属
+[NEKOTAIL_PEDIA]
+香蒲——水中优雅的“猫尾草”
+    多年生水生或沼生草本。
+    地上茎粗壮，高1-2米；叶片长条形，长可达1米；圆柱状穗状花序顶生，雌雄花序紧密相连，上方为雄花序，下方为雌花序，下部具白色丝状毛，果期可随风帮助种子传播远方；小坚果椭圆形，种子褐色。花果期5-8月。
+    因植株具清香而得名，又因其花序颜色形态，国外称其为“cattail”（猫尾草），原产于中国东北、华北、西北、华东和西南等地湿地和水域中，在菲律宾、日本、俄罗斯及大洋洲也有分布。其叶片用于编织、造纸等，雌花序可作枕芯等填充物，花粉可入药（蒲黄），嫩芽（蒲菜）可食，而其优雅的姿态使其常被用作水生观赏花卉。
+
+
+[WINTERSWEET_FAMILY]
+蔷薇科
+[WINTERSWEET_GENUS]
+李属
+[WINTERSWEET_PEDIA]
+梅——中华传统名花
+    落叶小乔木。
+    株高4-10米，小枝绿色；叶片卵形至椭圆形，先端尾尖；花多单生，先叶开放，花瓣五片，颜色白色或粉色，香气清幽；球形核果，味酸可食。花期冬春季，果期为夏季。
+    原产于中国、朝鲜和日本，在我国已有三千多年的栽培历史，如今已遍布全国各地，尤以长江流域以南地区最为常见。因其花“凌寒绽放”，与松、竹并称为“岁寒三友”。其果实即“梅子”，可食、盐渍或干制，三国时期“青梅煮酒”故事流传至今；其花、叶、根均可入药，具有疏肝解郁、化痰止咳等功效。
+
+
+[JACKFRUIT_FAMILY]
+桑科
+
+[JACKFRUIT_GENUS]
+波罗蜜属
+[JACKFRUIT_PEDIA]
+波罗蜜——“热带果王”
+    常绿乔木。
+    高可达20米，老树常有板根来稳固生长；叶片革质，螺旋状排列，椭圆形；花雌雄同株，花序生老茎或短枝上，以便不被茂密的叶片遮挡而能更易被传粉和帮助传播种子的动物发现；雄花序圆柱形，雌花序球形；聚花果椭圆球形，表面有坚硬六角形瘤状凸体和粗毛。花期2-3月，果期6-8月。
+    名字源于梵文“Pāramitā”，意为“到彼岸”即“圆满”（佛教文化），因其果实圆而丰硕与“圆满”理念相契合而得名。原产印度南部，现热带和亚热带多地均有栽培。其单果长可达1米，重可达50公斤，为界上最大和最重的水果之一，享有“热带果王”的美誉。此外，其核果富含淀粉可煮食，木材可提取桑色素。
+
+
+[AKEE_FAMILY]
+无患子科
+[AKEE_GENUS]
+咸鱼果属
+[AKEE_PEDIA]
+西非荔枝果——美味又危险的“阿开木”
+    常绿乔木。
+    高可达25米；羽状复叶对生，小叶3-5对，椭圆形；聚伞圆锥花序顶生，白或淡黄色，花瓣5枚；果实椭圆形，果皮橙红色，成熟时裂开，露出黑色种子，外包被的奶黄色假种皮为可食部分，未成熟时有剧毒。花期3-5月，果期6-8月。
+    因原产西非，果实红色又与荔枝同属一个家族而得名。又因开花时能吸引群蜂来，当地人称其为“Ackee”（意为“蜜果”），音译“阿基”或“阿开木”果，当地常煮熟与咸鱼搭配食用，故又名“咸鱼果”。除食用外，叶片可提取抗菌药物，果皮和种子提取油可制肥皂。此外，在西非常被用于传统仪式和庆典活动，象征着丰收、健康和幸福，还常被用作礼物来表达对他人的尊重和祝福。
+
+
+[XSHOT_FAMILY]
+十字花科
+[XSHOT_GENUS]
+芸苔属
+[XSHOT_PEDIA]
+芜菁——古老的根茎作物
+    二年生草本植物。
+    高可达1米，块根肉质，近球形，外皮白色、黄色或红色；基生叶大头羽状分裂，茎生叶长圆形；总状花序顶生，花黄色4瓣，排成“十字”形，雄蕊6枚，雌蕊1枚；果实线形，长3-8厘米，种子球形，浅黄棕色。花期3-4月，果期5-6月。
+    又名蔓菁，其块根可熟食或腌制酸菜，或作饲料。原产于地中海或中亚地区，现各地均有栽培。约在汉代传入中国，作为根茎蔬菜在中国古代是重要的食用和救荒作物。
+
+
+[GUACODILE_FAMILY]
+樟科
+[GUACODILE_GENUS]
+鳄梨属
+[GUACODILE_PEDIA]
+鳄梨——富含营养的“超级食物”
+    常绿乔木。
+    高约10米；叶互生，革质，长椭圆形；聚伞状圆锥花序，花小（长约5毫米），淡黄绿色，花被筒倒锥形，花被裂片6；果实梨形，种子卵球形，单生。花期2-3月，果期8-9月。
+    形状如梨,果皮粗糙似鳄鱼皮而得名，因其质地和口感似黄（牛）油又称牛油果，因富含健康脂肪而被誉为“超级食物”。原产热带美洲，现世界热带及亚热带地区多有栽培。其果仁含脂肪油，可用于食用、医药和化妆工业。
+
+
+[PEANUT_FAMILY]
+豆科
+
+e
+
+Next change
+
+Explain
+
+[BUBBLECORAL_FAMILY]
+仙人掌科
+[BUBBLECORAL_GENUS]
+仙人掌属
+[BUBBLECORAL_PEDIA]
+姬珊瑚：多肉界的“招财手”
+    多年生肉质小灌木。
+    株高约15厘米，茎细圆柱形茎肉质，呈珊瑚状分枝。茎表面密布白色刺座，着生细小白刺；花顶生，粉红色或白色；浆果椭球型。花期为夏季，果期为秋季。
+    株形小巧的植物常用“姬”来命名，丛生形态似珊瑚而得名，又因茎干细长条状名“仙人条”，多分枝似手掌而名“招财手”。原产墨西哥和美国西南部，现各地多栽培用作多肉观赏盆栽。
+
+
+[WINTERRAMBUTAN_FAMILY]
+无患子科
+[WINTERRAMBUTAN_GENUS]
+韶子属
+[WINTERRAMBUTAN_PEDIA]
+红毛丹——热带果林的毛荔枝
+    常绿乔木。
+    高10余米；羽状复叶互生，小叶2-3对，薄革质椭圆形。聚伞圆锥花序顶生或腋生，花小，单性，无花瓣，雌雄异株。果实椭圆形，红色，长约5厘米，果皮密被柔软刺，假种皮肉质白色（食用部分）与种皮粘连，包裹种子。花期夏初，果期秋初。
+    原产亚洲热带，马来群岛一带种植较多，通称“Rambutan”（意为“毛茸茸的果子”），因果实形态和口味与荔枝相似也常被称为“毛荔枝”，是东南亚地区备受喜爱的水果。此外，其果壳可煎茶或作染料，树皮和根也可做茶饮，有降火消炎之效。
+
+
+[BURDOCKBATTER_FAMILY]
+菊科
+[BURDOCKBATTER_GENUS]
+牛蒡属
+[BURDOCKBATTER_PEDIA]
+牛蒡——药食两用的“牛尾”根
+    二年生草本植物。
+    植株高可达2米，肉质直根，圆柱形，长可达1米；茎直立，粗壮，带紫色；叶宽卵形，长可达30厘米；头状花序在茎顶排成疏松的或圆锥状伞房花序，总苞卵球形，苞片顶端有倒钩刺，果实成熟期可帮助果实挂附在动物皮毛上帮其传播至远方；小花紫红色；瘦果倒长卵形，浅褐色。花果期6-9月。
+    因其植株粗壮似“牛”，野外丛生为“蒡”而得名，另一说因其根似牛尾得名。广布欧亚大陆，因其肉质根味道清香，且有清热解毒、疏风利咽之效，为东亚地区广受欢迎的保健食材，各国各地也普遍栽培。其果实也可入药，具疏散风热等功效。
 
 
 
+[JEWELRABBIT_FAMILY]
+番杏科
+[JEWELRABBIT_GENUS]
+碧光环属
+[JEWELRABBIT_PEDIA]
+碧光环——多肉界的“小兔子”
+    多年生草本植物。
+    株高可达15厘米；茎褐色肉质，顶端生对生的肉质叶组成，呈半球形；新叶从中长出，细长对生，形似兔耳；花白色，果实呈元宝形。花果期因地域和养护条件而异，一般在秋季至春季间。
+    因叶片形态常被多肉植物爱好者称为“小兔子”，原产南非。因其可爱的形态而常作为盆栽观赏，喜温暖和散射光充足的环境，耐旱忌涝，忌强光暴晒。
+
+
+[HEATHSEEKER_FAMILY]
+杜鹃花科
+[HEATHSEEKER_GENUS]
+欧石南属
+[HEATHSEEKER_PEDIA]
+欧石南——欧洲荒野坚韧之花
+    常绿灌木。
+    植株矮小（20-150厘米）；叶片细条状，多枚轮生于枝上；花紫红、粉红或白色等，球状到管状，顶端4裂，花小（花径约5毫米），多几十朵生于枝端形成一串可爱的小铃铛；果为蒴果，包含在宿存花萼和花冠内。花期为冬季及早春，果期为春季。
+    原产欧洲和非洲的荒原和山地，其属学名“Erica”源自希腊语“ereikō”，意为“打破”，指其生命力顽强，能打破贫瘠土壤而生长。是欧洲冬季最常见的观赏花卉，为挪威国花，欧洲文学作品中常出现其身影。此外，其植株可用于提取精油，具有镇静、抗菌等功效。
+    花语：孤独、勇敢、坚韧
+
+
+[GARDENERGRASS_FAMILY]
+山龙眼科
+[GARDENERGRASS_GENUS]
+帝王花属
+[GARDENERGRASS_PEDIA]
+帝王花：南非的国花
+    常绿灌木。
+    植株高约1米；叶片互生，革质长椭圆形；头状花序，形如睡莲，直径可达30厘米；由众多小花组成，外围苞片花瓣状，红色或粉红色；果实椭圆形，种子棕色扁平卵形。花期春至夏初，果期为夏季。
+    因花序形似皇冠而得名，原产南非各地，深受民众喜爱而普遍种植，为南非国花。作为外来花卉，常音译其名“Protea”而被称为“卜若地”、“普蒂亚”等，因其富贵华丽的外表常用作鲜切花。
+
+
+[INFERNO_FAMILY]
+碗蕨科
+[INFERNO_GENUS]
+蕨属
+[INFERNO_PEDIA]
+蕨——美味又危险的古老野菜
+    多年生草本植物。
+    株高可达1米；根状茎长而横走；幼叶呈紧密的“拳头状”卷曲，成熟后展开为大型羽状复叶，长可达1-3米，叶背边缘生有呈褐色线状排列的孢子囊群。蕨类植物非常古老，其演化历史可追溯到志留纪末期（约4.2亿年前），它们没有真正的花和果，依靠孢子繁殖。
+    蕨的适应力极强，全球热带及温带地区均有分布，我国主要产长江流域及以北地区，生山坡、林缘等湿润半阴环境。其嫩叶可食，爽脆清香，俗称“蕨菜”或“拳菜”；根状茎可提取“蕨根粉”做粉条或蕨饼食用，因此川南地区称其为“米蕨”。但应注意其含原蕨苷，长期大量食用可能增加胃癌、食道癌风险。
+    花语：野蛮生长、危险的诱惑
 
 
 
+[BROMELBLADE_FAMILY]
+凤梨科
+[BROMELBLADE_GENUS]
+丽穗凤梨属
+[BROMELBLADE_PEDIA]
+鹦哥丽穗凤梨——热带雨林的绚丽精灵
+    附生多年生常绿草本植物。
+    植株高30-60厘米；叶片革质带状，呈莲座状排列；花序顶生；穗状花序，苞片鲜艳，基部红色，上部黄色；花黄色，花瓣3枚；蒴果，成熟时会自动裂开，种子具毛，可随风飘荡将种子传播至远方。花期多为春季，果期为春夏之交。
+    因其花序上具层层叠叠的红色或黄色的苞片，如鹦鹉羽毛或火剑而得名鹦哥丽穗凤梨或火剑（箭）凤梨，观赏期长达数月。原产巴西，为当地热带雨林中常见的附生植物，其叶片具有吸收水分的鳞片，基部呈鞘状，雨水沿叶面流入由叶鞘形成的“贮水器”，不仅能帮助其渡过旱季，还为其它小型生物提供了水源和栖息地。
 
 
+[ELEOCURLING_FAMILY]
+莎草科
+[ELEOCURLING_GENUS]
+荸荠属
+[ELEOCURLING_PEDIA]
+荸荠——地下雪梨
+    多年生水生草本植物。
+    具细长匍匐根状茎，顶端生扁球形块茎，表皮栗红色；茎秆丛生，圆柱状，高15-60厘米；叶退化，只在杆基部有2-3个膜质叶鞘；多朵花形成圆柱状小穗顶生，淡绿色；小坚果宽倒卵形，棕黄色，双凸状。花果期5-10月。
+    因其球茎颜色形态又名“马蹄”，富含淀粉，生食脆甜，被誉为“地下雪梨”，亦可炒菜、炖汤或制成马蹄糕、糖水等甜点，是我国江南水乡特色美食之一。此外，也可供药用，可健胃消食。现我国各地均有栽培，朝鲜、日本、越南、印度也有分布。
 
 
+[MONOTROPA_FAMILY]
+杜鹃花科
+[MONOTROPA_GENUS]
+水晶兰属
+[MONOTROPA_PEDIA]
+水晶兰：幽林中的水晶之花
+    多年生草本植物。
+    茎直立不分枝，高10-30厘米，全株无叶绿素，白色，肉质；根细而分枝密，交结成鸟巢状；叶片鳞片状，互生；花单生茎顶，筒状钟形，花瓣5-6片，半透明白色；雄蕊10-12枚，雌蕊单生，花柱头膨大成漏斗状；果实椭圆球形，直立，向上，长1.3-1.4厘米。花期为6-9月；果期9-11月。
+    为腐生植物，因无叶绿素而不能产生光合作用，而是依赖分解有机物质来获取营养生长，因此要生长在腐殖质丰富的土壤中。集中分布于我国西南和西北地区海拔800-3850米的山地林下，苏联、日本、印度、东南亚、北美也有分布。
+
+
+[HOLLYKNIGHT_FAMILY]
+冬青科
+[HOLLYKNIGHT_GENUS]
+冬青属
+[HOLLYKNIGHT_PEDIA]
+欧洲冬青——圣诞冬青
+    常绿灌木或小乔木。
+    植株高10-25米；叶片革质，深绿色，椭圆形，边缘波状具尖刺；雌雄异株；花小簇生叶腋，花瓣白色，4枚；核果球形，直径6-10毫米，成熟时鲜红色。花期4-5月，果期10-翌年2月。
+    因叶片冬季叶片常青而得名，原产欧洲西南部及北非、西亚。其树干宜作尺、美术工艺品等，染色后可以代替乌木使用。欧洲冬青也叫“圣诞冬青”，欧洲家庭用它制作圣诞花环来迎接圣诞节，他们相信其红色浆果是太阳的化身，能驱散冬夜的黑暗和魔鬼。
+
+
+[PARSNIP_FAMILY]
+伞形科
+[PARSNIP_GENUS]
+欧防风属
+[PARSNIP_PEDIA]
+欧防风——欧洲的白色胡萝卜
+    二年生草本植物。
+    高可达1.6米；根肉质，圆锥形，淡棕黄色，长达30厘米；叶片羽状分裂，深绿色；复伞形花序，花小，花瓣5枚，黄色；果实成熟时常分裂成2个分生果，果卵圆形至倒卵形，具棱。花果期6-8月。
+    因其原产欧洲且与我国中药植物防风形似而得名，又因其叶片似芹菜，根形似胡萝卜，民间俗称“芹菜萝卜”。其肉质根质地细腻，味道甘甜，是欧洲传统根茎类蔬菜，此外还可做饲料或酿酒。现主要在欧美国家大量栽培，我国偶有栽培。
+
+
+[WASABIWHIP_FAMILY]
+十字花科
+[WASABIWHIP_GENUS]
+山艹俞菜属
+[WASABIWHIP_PEDIA]
+山葵——山间的辛辣珍宝
+    多年生草本植物。
+    植株高20-50厘米；根状茎肉质，长10-30厘米；基生呈莲座状，叶片心形或肾形，边缘具波状齿，茎生叶宽卵形，掌状叶脉；总状花序，花白色，花瓣4枚排成“十字形”，雄蕊6枚，雌蕊1枚；果实线形圆柱状，种子长圆形。花期3-5月，果期5-6月。
+    山葵根茎富含辛辣成分，研磨后可作为调味品即“山葵酱”，在日式料理中广泛应用。原产日本和韩国等，台湾有归化，现多地有栽培。
+
+
+[DRAGONROAR_FAMILY]
+猪笼草科
+[DRAGONROAR_GENUS]
+猪笼草属
+[DRAGONROAR_PEDIA]
+猪笼草——食虫植物界的“陷阱大师”
+    直立或攀援草本。
+    株高0.5-2米；叶由叶柄（短近无）、叶片、卷须和捕虫笼构成，因捕虫笼形似猪笼而得名。捕虫笼由瓶状体和笼盖两部分构成，其上密布能分泌蜜露的紫红色斑点，瓶口尤其密集，因此能吸引昆虫来到瓶口，一不小心就滑落瓶内，被瓶底分泌的消化液淹死并分解成营养物质，逐渐消化吸收。笼盖可以防止雨水进入笼中，避免稀释笼中消化液的浓度。其花序总状，雌雄异花，花红至紫红色。花期4-11月，果期8-12月。
+    猪笼草主要分布于热带地区的沼泽、路边、山中林下等，因其独特的形态和食虫习性，常被作为观赏植物栽培。此外，在东南亚地区，会将米、肉等食材塞入苹果猪笼草的捕虫笼蒸熟做成“猪笼草饭”；干燥的茎叶入药有清热止咳、利尿降压之效。
+
+
+[NEKOTAIL_FAMILY]
+香蒲科
+[NEKOTAIL_GENUS]
+香蒲属
+[NEKOTAIL_PEDIA]
+香蒲——水中优雅的“猫尾草”
+    多年生水生或沼生草本。
+    地上茎粗壮，高1-2米；叶片长条形，长可达1米；圆柱状穗状花序顶生，雌雄花序紧密相连，上方为雄花序，下方为雌花序，下部具白色丝状毛，果期可随风帮助种子传播远方；小坚果椭圆形，种子褐色。花果期5-8月。
+    因植株具清香而得名，又因其花序颜色形态，国外称其为“cattail”（猫尾草），原产于中国东北、华北、西北、华东和西南等地湿地和水域中，在菲律宾、日本、俄罗斯及大洋洲也有分布。其叶片用于编织、造纸等，雌花序可作枕芯等填充物，花粉可入药（蒲黄），嫩芽（蒲菜）可食，而其优雅的姿态使其常被用作水生观赏花卉。
+
+
+[WINTERSWEET_FAMILY]
+蔷薇科
+[WINTERSWEET_GENUS]
+李属
+[WINTERSWEET_PEDIA]
+梅——中华传统名花
+    落叶小乔木。
+    株高4-10米，小枝绿色；叶片卵形至椭圆形，先端尾尖；花多单生，先叶开放，花瓣五片，颜色白色或粉色，香气清幽；球形核果，味酸可食。花期冬春季，果期为夏季。
+    原产于中国、朝鲜和日本，在我国已有三千多年的栽培历史，如今已遍布全国各地，尤以长江流域以南地区最为常见。因其花“凌寒绽放”，与松、竹并称为“岁寒三友”。其果实即“梅子”，可食、盐渍或干制，三国时期“青梅煮酒”故事流传至今；其花、叶、根均可入药，具有疏肝解郁、化痰止咳等功效。
+
+
+[JACKFRUIT_FAMILY]
+桑科
+[JACKFRUIT_GENUS]
+波罗蜜属
+[JACKFRUIT_PEDIA]
+波罗蜜——“热带果王”
+    常绿乔木。
+    高可达20米，老树常有板根来稳固生长；叶片革质，螺旋状排列，椭圆形；花雌雄同株，花序生老茎或短枝上，以便不被茂密的叶片遮挡而能更易被传粉和帮助传播种子的动物发现；雄花序圆柱形，雌花序球形；聚花果椭圆球形，表面有坚硬六角形瘤状凸体和粗毛。花期2-3月，果期6-8月。
+    名字源于梵文“Pāramitā”，意为“到彼岸”即“圆满”（佛教文化），因其果实圆而丰硕与“圆满”理念相契合而得名。原产印度南部，现热带和亚热带多地均有栽培。其单果长可达1米，重可达50公斤，为界上最大和最重的水果之一，享有“热带果王”的美誉。此外，其核果富含淀粉可煮食，木材可提取桑色素。
+
+
+[AKEE_FAMILY]
+无患子科
+[AKEE_GENUS]
+咸鱼果属
+[AKEE_PEDIA]
+西非荔枝果——美味又危险的“阿开木”
+    常绿乔木。
+    高可达25米；羽状复叶对生，小叶3-5对，椭圆形；聚伞圆锥花序顶生，白或淡黄色，花瓣5枚；果实椭圆形，果皮橙红色，成熟时裂开，露出黑色种子，外包被的奶黄色假种皮为可食部分，未成熟时有剧毒。花期3-5月，果期6-8月。
+    因原产西非，果实红色又与荔枝同属一个家族而得名。又因开花时能吸引群蜂来，当地人称其为“Ackee”（意为“蜜果”），音译“阿基”或“阿开木”果，当地常煮熟与咸鱼搭配食用，故又名“咸鱼果”。除食用外，叶片可提取抗菌药物，果皮和种子提取油可制肥皂。此外，在西非常被用于传统仪式和庆典活动，象征着丰收、健康和幸福，还常被用作礼物来表达对他人的尊重和祝福。
+
+
+[XSHOT_FAMILY]
+十字花科
+[XSHOT_GENUS]
+芸苔属
+[XSHOT_PEDIA]
+芜菁——古老的根茎作物
+    二年生草本植物。
+    高可达1米，块根肉质，近球形，外皮白色、黄色或红色；基生叶大头羽状分裂，茎生叶长圆形；总状花序顶生，花黄色4瓣，排成“十字”形，雄蕊6枚，雌蕊1枚；果实线形，长3-8厘米，种子球形，浅黄棕色。花期3-4月，果期5-6月。
+    又名蔓菁，其块根可熟食或腌制酸菜，或作饲料。原产于地中海或中亚地区，现各地均有栽培。约在汉代传入中国，作为根茎蔬菜在中国古代是重要的食用和救荒作物。
+
+
+[GUACODILE_FAMILY]
+樟科
+[GUACODILE_GENUS]
+鳄梨属
+[GUACODILE_PEDIA]
+鳄梨——富含营养的“超级食物”
+    常绿乔木。
+    高约10米；叶互生，革质，长椭圆形；聚伞状圆锥花序，花小（长约5毫米），淡黄绿色，花被筒倒锥形，花被裂片6；果实梨形，种子卵球形，单生。花期2-3月，果期8-9月。
+    形状如梨,果皮粗糙似鳄鱼皮而得名，因其质地和口感似黄（牛）油又称牛油果，因富含健康脂肪而被誉为“超级食物”。原产热带美洲，现世界热带及亚热带地区多有栽培。其果仁含脂肪油，可用于食用、医药和化妆工业。
+
+
+[PEANUT_FAMILY]
+豆科
+[PEANUT_GENUS]
+落花生属
+[PEANUT_PEDIA]
+落花生——入地结果的“长生果”
+    一年生草本。
+    茎直立或匍匐生长，根部有根瘤；羽状复叶（小叶2对），黄色蝶形小花簇生于叶腋；花朵授粉、胚珠完成受精后，雌蕊的子房柄向下延伸生长，将子房插入土下，并于地下发育成熟形成果实；果实长椭圆形，内含1-4粒种仁，外覆红色种皮。花果期6-8月。
+    因其“落花入地结果”的独特生殖方式而得名，俗称“花生”。原产南美洲，现世界广泛种植，其根瘤菌能固氮，可改良土壤肥力。其茎可供造纸，种子可食用也可榨油，为全球主要食用油之一。在中医里花生用于延年益寿的食疗方中，故又名“长生果”。果实有多粒种子而被寓意“多子多福”，常用于婚庆仪式中。
+
+
+[STARFRUIT_FAMILY]
+酢浆草科
+[STARFRUIT_GENUS]
+阳桃属
+[STARFRUIT_PEDIA]
+阳桃——“星星果”
+    常绿乔木。
+    高可达12米；叶互生，奇数羽状复叶，小叶5-13枚，卵形或椭圆形。花小（花径约1厘米），萼片、花瓣均5枚，紫红色，聚伞或圆锥花序腋生。果实为浆果，椭圆形，具5棱，成熟时黄色；种子扁平，黑褐色。花期4-12月，果期7-12月。
+    别名杨桃、五敛子，因其果实横切面呈五角星形，又名“星星果”。原产于东南亚热带地，现广植于热带各地。除了果实可做水果，其根、皮、叶入药用于止痛止血。
+
+
+[MELONPULT_FAMILY]
+葫芦科
+[MELONPULT_GENUS]
+西瓜属
+[MELONPULT_PEDIA]
+西瓜——夏日降暑佳果
+    一年生蔓生草本植物。
+    茎匍匐，被柔毛；叶互生，三角状卵形，3-5深裂，裂片羽状深裂，叶片基部心形。雌雄同株，雌、雄花均单生于叶腋，淡黄色，宽钟状，深5裂。果实球形或椭圆形，肉质多汁；种子卵形，黑色、褐色等。花果期夏季。
+    原产于非洲，现广泛栽培于世界热带到温。金、元时始传入我国，现品种甚多，外果皮、果肉及种子形态多样。除了果肉可食用于降温去暑，西瓜子可做零食，果皮入药有降血压之效。
+
+
+[COCONUTCANNON_FAMILY]
+棕榈科
+[COCONUTCANNON_GENUS]
+椰子属
+[COCONUTCANNON_PEDIA]
+椰子——热带海岸的标志
+    常绿乔木。
+    高可达30米；叶片羽状全裂，长4-6米，簇生茎顶；花单性，雌雄同株；果实近球形，外果皮薄，中果皮厚纤维质，内果皮木质坚硬，果腔含有胚乳（即椰肉和椰汁）和胚，这样空腔的构造帮助其果实成熟坠入海中时，可以像皮球一样漂流传播到更远的海岸。花果期主要在秋季。
+    椰子原产于亚洲热带地区，如今广泛分布于全球热带沿海地区，是热带海岸标志性植物。除了食用，椰壳可制作器皿和工艺品，椰纤维可编织绳索、地毯等，树干可用于建筑，叶片可编织草帽、席子等。
+    花语：希望、收获
+
+
+[LIGHTNINGREED_FAMILY]
+禾本科
+[LIGHTNINGREED_GENUS]
+芦苇属
+[LIGHTNINGREED_PEDIA]
+芦苇——湿地的守护者
+    多年生草本植物。
+    高1-3米，具发达的地下根状茎，茎秆中空；叶片狭长，呈披针状线形，排列两行；圆锥花序顶生，长20-40厘米，由多个小穗组成，小穗含3-7朵小花，基部具丝状长柔毛；果实为颖果，细小被长柔毛包裹，可随风传播。花期在7月；果期在8-11月。
+    广泛分布于全球的淡水湿地、河岸、湖泊等水域,它适应性强，能有效净化水质，防止水土流失，为鱼类、鸟类等提供栖息地,为固堤造陆先锋环保植物。其茎秆可用于造纸、编织、建棚材料等，嫩茎叶可作饲料，根状茎可入药，具有清热解毒等功效。
+
+
+[PUMPKINWITCH_FAMILY]
+葫芦科
+[PUMPKINWITCH_GENUS]
+南瓜属
+[PUMPKINWITCH_PEDIA]
+南瓜——田园里的金黄宝藏
+    一年生蔓生草本植物。
+    茎匍匐生长，长达数米，具卷须；叶片卵圆形，5浅裂，密被黄白色毛；花冠黄色，钟状，5中裂；雌雄同株异花，雄花（提供花粉）具雄蕊3枚，雌花（未来形成果实）的花柱短，柱头3个，顶端2裂；果实形状和颜色多样，因品种而异；种子长卵形，灰白色。
+    原产墨西哥到中美洲一带，明代传入我国。华北地区常称其“倭(窝)瓜”，可能源于历史上南瓜传入该地区的路径（通过日本）。除了食用，全株还可药用，如南瓜子有清热除湿、驱虫的功效。而在欧洲，将南瓜雕刻成杰克灯，是万圣节不可或缺的元素。
+
+
+[HURRIKALE_FAMILY]
+十字花科
+[HURRIKALE_GENUS]
+芸薹属
+[HURRIKALE_PEDIA]
+甘蓝——来自地中海的卷心菜
+    二年生草本。
+    基生叶多数，层层包裹成球状体，直径10-30厘米；总状花序顶生及腋生；花淡黄色，花瓣4片，十字形排列；果实为圆柱形长角果，长6-9厘米；种子球形，棕色。花期4月，果期5月。
+    因其味道和颜色而得名“甘蓝”，在我国也常被称为卷心菜、洋白菜等，是秋冬季节的主要蔬菜之一。原产地中海沿岸，现世界各地广泛栽培。除了食用，其园艺变种羽衣甘蓝也培育出了丰富的观赏品种常应用于花坛花境。
+    花语：利益、祝福
+
+
+[MAPLEBLADE_FAMILY]
+槭树科
+[MAPLEBLADE_GENUS]
+槭属
+[MAPLEBLADE_PEDIA]
+鸡爪槭（枫）——“霜叶红于二月”
+    落叶小乔木。
+    株高2-5米；叶对生，掌状5-9裂，边缘有锯齿；花紫色，杂性，雄花与两性花同株；花萼片和花瓣均为5枚；雄蕊8枚，花柱单生，顶端2裂；果实为翅果，形如蜻蜓翅膀。当果实成熟时，风吹来，其“翅膀”会带着它的种子如直升机一样螺旋飞翔，通过增加其在空中的滞留时间帮助种子传播到更远的地方。花期5月，果期为深秋。
+    古时称该科植物为“槭”，后因其叶秋季变红又常被大众称为“枫”。原产中国、朝鲜和日本，现世界各地广泛栽培，园艺品种繁多，叶片形态和色彩多样，为园林的主要的秋季观叶树种之一。
+
+
+[BUDUHBOOM_FAMILY]
+阿福花科
+[BUDUHBOOM_GENUS]
+十二卷属
+[BUDUHBOOM_PEDIA]
+玉露——多肉界晶莹剔透的绿宝石
+    多年生肉质草本植物。
+    植株矮小，叶片呈莲座状排列，肉质肥厚，顶端透明或半透明，形成“窗”，如翡翠上的露珠而得名。而此“窗”不仅可爱，还是其渡过旱期的法宝。当旱季来临，植株大部分会缩回土中来减少水分蒸发，阳光就透过“窗”照射到内部组织来保证其进行光合作用。花序总状，花小（径约5毫米），6瓣，白色或淡粉色；果实椭圆形，内含黑色细小种子。花期3-5月，果期6-8月。
+    玉露原产于南非，现作为盆栽多肉植物世界广泛栽培，品种众多。喜凉爽的半阴环境，耐旱怕涝，多通过叶插和分株繁殖。
+
+
+[PAPHIOPEDILUM_FAMILY]
+兰科
+[PAPHIOPEDILUM_GENUS]
+兜兰属
+[PAPHIOPEDILUM_PEDIA]
+兜兰——植物界的“拖鞋公主”
+    多年生草本植物。株高15-60厘米；叶长圆形排成2列，茎短而包藏于叶基内；多单花顶生，花色丰富；果实为蒴果，种子细小。花期多为春季，果期多为春夏之间。
+    兜兰属的植物的统称，因其下部花瓣特化成兜状而得名，又因形似包头拖鞋而名“拖鞋兰”。其可爱的“兜”其实是个巧妙的陷阱。当花盛开时，昆虫受吸引而来，一不小心就会掉入“兜”中，而其内壁光滑，只有一条通往花蕊的路可以攀爬，就这样昆虫在逃生过程中不知不觉地帮助兜兰完成了传粉。
+    主要分布在亚洲的热带地区至太平洋岛屿，约110种，多附生于树干或岩石上；我国分布有39个，均为国家重点保护植物。其花秀雅深受人们喜爱，培育的园艺品种已超过2万个。
+    花语：美人、勤俭
+
+[IMPPEAR_SKILL_LEVEL5]
+虚弱气体
+
+[IMPPEAR_SKILL_LEVEL5_DES]
+僵尸放出的气体范围扩大，且会让僵尸受到的伤害增加
+
+[CREDTIS_CHINA_MANAGER]
+高级产品经理
+
+[ZOMBIE_SLIMES]
+Zom-Blob
+
+[ZOMBIE_SLIMES_DESCRIPTION]
+千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+
+[ZOMBIE_SLIMES_DESCRIPTION_HEADER]
+Splits into tinier Zom-Blobs on death, that then split further themselves.
+
+[ZOMBIE_SLIMES_GARGANTUAR]
+Zom-Blob
+
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION]
+千万别在史莱姆僵尸面前洗发胶。至于是洗完后更有利于他咬你的脑袋，还是这会产生更多的史莱姆僵尸，还是这会让史莱姆僵尸脆弱的同情心泛滥？可能都是。
+
+[ZOMBIE_SLIMES_GARGANTUAR_DESCRIPTION_HEADER]
+Splits into tinier Zom-Blobs on death, that then split further themselves.
+
+[BIRTHSUNFLOWER_SKILL_LEVEL5]
+沉醉音符
+
+[BIRTHSUNFLOWER_SKILL_LEVEL5_DES]
+向日葵歌手在生产阳光后，会发出可以眩晕僵尸的音符
+
+[DANGER_ROOM_RENAI_LEVEL_NAME]
+复兴大剧院-第 {LEVEL_NUMBER} 关
+
+[DANGER_ROOM_RENAI_TITLE_WELCOME]
+欢迎来到复兴大剧院！
+
+[BOSS_CHALLENGE_HEAD_ID_25650]
+Master Sculptor
+
+[BOSS_CHALLENGE_HEAD_DES_ID_25650]
+致在复兴无尽挑战中获得成绩的玩家。 
+
+[MAPLEBLADE]
+Maple Blade
+
+[MAPLEBLADE_DESCRIPTION]
+{KEYWORD}范围：{STAT}前方2格
+{KEYWORD}特点：{STAT}与分身协同攻击
+{KEYWORD}植物特征：{STAT}红色植物
+{FLAVOR}枫影剑客的叶片总在等待一场秋风 —— 但别误会，那可不是为了飘落，他只是想展示自己飘逸的长发。
+
+[MAPLEBLADE_DESCRIPTION_HEADER]
+使用刀剑斩击僵尸
+
+[MAPLEBLADE_TOOLTIP]
+使用刀剑斩击僵尸
+
+[MAPLEBLADE_PRODUCT_SHORT_DESC]
+使用刀剑斩击僵尸
+
+[MAPLEBLADE_SKILL_LEVEL1]
+枫影·双生溯斩
+
+[MAPLEBLADE_SKILL_LEVEL1_DES]
+分身冷却时间减少。收回分身后的下次攻击将变为^FF0000^枫影・碎影^oldclr^
+^FF0000^枫影・碎影^oldclr^：下次普通攻击变为强化攻击造成额外伤害。
+
+[MAPLEBLADE_SKILL_LEVEL2]
+枫影·千刃叠潮
+
+[MAPLEBLADE_SKILL_LEVEL2_DES]
+分身冷却时间继续减少，^FF0000^枫影・碎影^oldclr^造成的伤害提升。
+
+[MAPLEBLADE_SKILL_LEVEL5]
+枫影·燕行绝杀阵
+
+[MAPLEBLADE_SKILL_LEVEL5_DES]
+枫影剑客有概率释放^FF0000^枫影・燕返^oldclr^。枫影・碎影额外产生一个攻击整行的剑气。
+^FF0000^枫影・燕返^oldclr^：枫影剑客冲刺折返，对途径的僵尸造成伤害，下次攻击变为^FF0000^枫影・碎影^oldclr^。
+
+[MAPLEBLADE_AVATAR_NAME]
+枫影剑客装扮
+
+[STORE_PRODUCT_AVATAR_MAPLEBLADE]
+大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+
+[STORE_PRODUCT_AVATAR_MAPLEBLADE_TITLE]
+枫影剑客装扮
+
+[MAPLEBLADE_NEW_SKILL_LEVEL1_DES]
+使用刀剑斩击前方僵尸。并可以释放技能枫影・水中月
+枫影・水中月：技能准备完毕时，直到有僵尸进入枫影剑客前方一格范围内时，生成一个分身向前冲刺至枫叶前方第三格，并击飞途径的僵尸0.5秒并造成伤害。
+
+[MAPLEBLADE_NEW_SKILL_LEVEL2_DES]
+分身冷却时间减少。收回分身后的下次攻击将变为枫影・碎影
+枫影・碎影：下次普通攻击变为强化攻击并造成额外伤害。
+
+[MAPLEBLADE_NEW_SKILL_LEVEL3_DES]
+分身冷却时间继续减少，枫影・碎影造成的伤害提升。
+
+[MAPLEBLADE_NEW_SKILL_LEVEL4_DES]
+种植时有高概率直接释放能量豆大招
+
+[MAPLEBLADE_NEW_SKILL_LEVEL5_DES]
+枫影剑客有概率释放^FF0000^枫影・燕返^oldclr^。枫影・碎影额外产生一个攻击整行的剑气，本体剑气与分身剑气同时命中的僵尸将被秒杀。
+^FF0000^枫影・燕返^oldclr^：枫影剑客发起冲刺三格并折返，对途径的僵尸造成伤害并向中点击退，使下次攻击变为^FF0000^枫影・碎影^oldclr^。 
+
+[MAPLEBLADE_PLANTFOOD_DESCRIPTION]
+枫影剑客蓄力后斩出圆型的剑气，剑气对接触到的僵尸造成X点伤害。
+
+[MAPLEBLADE_AVATAR_PLANTFOOD_DESCRIPTION]
+大招造成伤害后，还会对命中的僵尸延后造成3段伤害。
+
+[BUDUHBOOM]
+Bud'uh Boom
+
+[BUDUHBOOM_DESCRIPTION]
+{KEYWORD}范围：{STAT}3×3
+{KEYWORD}特点：{STAT}黄油爆炸造成3×3范围的爆炸和控制
+{KEYWORD}植物特征：{STAT}黄色植物
+{FLAVOR} 爆浆玉露对黄油的痴迷总是让他一触即发，当它看到僵尸博士正在食用山寨品牌的黄油时，草坪上瞬间炸开了锅！现在，他准备给僵尸涂上黄油，然后随着沸腾的黄油，砰然爆炸！
+
+[BUDUHBOOM_DESCRIPTION_HEADER]
+Bud'uh Boom explodes in a 3x3 area when planted, dealing high damage and leaving butter tiles afterwards. It will also launch two butter tiles onto random places of the lawn.
+
+[BUDUHBOOM_TOOLTIP]
+Explodes and butters zombies
+
+[BUDUHBOOM_PRODUCT_SHORT_DESC]
+Bud'uh Boom explodes in a 3x3 area when planted, dealing high damage and leaving butter tiles afterwards. It will also launch two butter tiles onto random places of the lawn.
+
+[BUDUHBOOM_PRODUCT_SHORT_DESC]
+Bud'uh Boom explodes in a 3x3 area when planted, dealing high damage and leaving butter tiles afterwards. It will also launch two butter tiles onto random places of the lawn.
+
+[BUDUHBOOM_SKILL1_LEVEL1]
+更多黄油
+
+[BUDUHBOOM_SKILL_LEVEL1]
+更多黄油
+
+[BUDUHBOOM_SKILL_LEVEL1_DES]
+爆炸结束后的黄油坑投掷数量+1
+
+[BUDUHBOOM_SKILL1_LEVEL1_DES]
+爆炸结束后的黄油坑投掷数量+1
+
+[BUDUHBOOM_SKILL1_LEVEL2]
+黄油地狱
+
+[BUDUHBOOM_SKILL_LEVEL2]
+黄油地狱
+
+[BUDUHBOOM_SKILL_LEVEL2_DES]
+爆炸结束后的黄油坑投掷数量+2
+
+[BUDUHBOOM_SKILL1_LEVEL2_DES]
+爆炸结束后的黄油坑投掷数量+2
+
+[BUDUHBOOM_NEW_SKILL_LEVEL1_DES]
+种植后直接爆炸造成3×3范围的爆炸伤害和黄油控制，可以凝住史莱姆僵尸使其不再分裂
+
+[BUDUHBOOM_NEW_SKILL_LEVEL2_DES]
+爆炸结束后的黄油坑投掷数量+1
+
+[BUDUHBOOM_NEW_SKILL_LEVEL3_DES]
+爆炸结束后的黄油坑投掷数量+2
+
+[BUDUHBOOM_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+[BUDUHBOOM_AVATAR_PLANTFOOD_DESCRIPTION]
+此植物无能量豆大招。
+
+[STORE_PRODUCT_AVATAR_BUDUHBOOM_TITLE]
+爆浆玉露装扮
+
+[STORE_PRODUCT_AVATAR_BUDUHBOOM]
+降低种植冷却20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CONVALLARIACHEMIST_2]
+Fairy Lily
+
+[NEW_AVATAR_DESCRIPTION_CONVALLARIACHEMIST_2]
+2、3、5阶技能触发概率增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_INFERNO_2]
+烈焰火蕨哪吒装扮
+
+[NEW_AVATAR_DESCRIPTION_INFERNO_2]
+攻击间隔降低1s
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALPEASHOOTER_4]
+原始豌豆锦衣卫装扮
+
+[NEW_AVATAR_DESCRIPTION_PRIMALPEASHOOTER_4]
+阳光消耗降低20
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PAPHIOPEDILUM_1]
+百宝兜兰国风装扮
+
+[NEW_AVATAR_DESCRIPTION_PAPHIOPEDILUM_1]
+攻击力增加20%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAGNETSHROOM_1]
+磁力菇国风装扮
+
+[NEW_AVATAR_DESCRIPTION_MAGNETSHROOM_1]
+休息时间减少1s
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WINTERSWEET_1]
+梅小美国风装扮
+
+[NEW_AVATAR_DESCRIPTION_WINTERSWEET_1]
+攻击力增加10%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_IMPPEAR_2]
+小黄梨国风装扮
+
+[NEW_AVATAR_DESCRIPTION_IMPPEAR_2]
+眩晕时间增加1s
+
+[NEW_AVATAR_SHORT_DESCRIPTION_SUNSHROOM_1]
+阳光菇国风装扮
+
+[NEW_AVATAR_DESCRIPTION_SUNSHROOM_1]
+阳光产出增加25
+
+[NEW_AVATAR_SHORT_DESCRIPTION_WIREGELSEMIUM_2]
+电击钩吻成长装扮
+
+[NEW_AVATAR_DESCRIPTION_WIREGELSEMIUM_2]
+攻击间隔缩短20%
+
+[MINIGAME_PERK_TEAM_SKY]
+Unlock Team Sky.
+
+[MINI_GAME_PERK_NAME_SPECIAL_ITEM_TEAM_SKY]
+Team Sky
+
+[S23_MEMORY_LEVEL_NAME_01]
+ML-I: Women's Day
+
+[S23_MEMORY_LEVEL_NAME_02]
+ML-II: Mirror Madness
+
+[S23_MEMORY_LEVEL_NAME_03]
+ML-III: Plants vs. Animals
+
+[S23_MEMORY_LEVEL_NAME_05]
+ML-V: Imp-possible Mission
+
+[S23_MEMORY_LEVEL_NAME_06]
+ML-VI: War of Attrition
+
+[S23_MEMORY_LEVEL_NAME_07]
+ML-VII: Modern Interlude
+
+[S23_MEMORY_LEVEL_NAME_08]
+ML-VIII: Romance Across Time
+
+[S23_MEMORY_LEVEL_NAME_09]
+ML-IX: Slimy Fighting
+
+[S23_MEMORY_LEVEL_NAME_10]
+ML-X: Vitruvian Dream
+
+[S23_MEMORY_LEVEL_NAME_11]
+ML-XI: Blitzkrieg
+
+[S23_MEMORY_LEVEL_NAME_13]
+ML-XIII: Another Dimension
+
+[S23_MEMORY_LEVEL_NAME_14]
+ML-XIV: Loving Labor
+
+[S23_MEMORY_LEVEL_NAME_15]
+ML-XV: Speed of Bowl
+
+[S23_MEMORY_LEVEL_NAME_16]
+ML-XVI: Porcelain Bond
+
+[PRODUCT_NEW_PVP_CHEST_5]
+常规传说宝箱
+
+[PRODUCT_NEW_PVP_CHEST_5_SHORTDESC]
+常规传说宝箱
+
+[BIRTHSUNFLOWER_NEW_SKILL_LEVEL5_DES]
+向日葵歌手在生产阳光后，会向当前行发出音符，音符穿过的僵尸会被^848484^眩晕Ⅰ^oldclr^2秒。
+
+[IMPPEAR_NEW_SKILL_LEVEL5_DES]
+当有僵尸啃食完小黄梨后，若释放出有毒气体，则有毒气体的范围增大，吸入有毒气体的僵尸会进入易伤状态，受到的伤害增加30%，持续7秒。
+
+[ACTIVITY_NEW_MINIGAME_SKYWAR]
+Air Raid
+
+[AVATARCOLLECTIONS_TITLE]
+Costume Catalogue
+
+[AVATARCOLLECTION_DESCRIPTION_TITLE]
+Catalogue Info
+
+[AVATARCOLLECTION_DESCRIPTION]
+The Costume Catalogue contains several sets of costumes that all fall together into specific "Themes".
+
+Collecting all costumes from a specific Theme will earn you a reward!
+
+[AVATARCOLLECTIONS_PROGRESS]
+Catalogue Progress: {NUMBER1}/{NUMBER2}
+
+[AVATARCOLLECTIONS_THEME_TITLE0]
+Christmas Carolers
+
+[AVATARCOLLECTIONS_THEME_DES0]
+缤纷圣诞，心愿闪亮！
+
+[AVATARCOLLECTIONS_THEME_TITLE1]
+新年到
+
+[AVATARCOLLECTIONS_THEME_DES1]
+新年福到，福星高照！
+
+[AVATARCOLLECTIONS_THEME_TITLE2]
+童心未泯
+
+[AVATARCOLLECTIONS_THEME_DES2]
+纯真如初，梦想依旧！
+
+[AVATARCOLLECTIONS_HEAD_ID_25657]
+童心未泯
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25657]
+纯真如初，梦想依旧！
+
+[AVATARCOLLECTIONS_THEME_TITLE3]
+惊魂万圣夜
+
+[AVATARCOLLECTIONS_THEME_DES3]
+南瓜灯亮，惊魂夜魅！
+
+[AVATARCOLLECTIONS_THEME_TITLE4]
+现代科技
+
+[AVATARCOLLECTIONS_THEME_DES4]
+科技赋能，火力无限！
+
+[AVATARCOLLECTIONS_HEAD_ID_25658]
+现代科技
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25658]
+科技赋能，火力无限！
+
+[AVATARCOLLECTIONS_THEME_TITLE5]
+别忘了绅士
+
+[AVATARCOLLECTIONS_THEME_DES5]
+风度翩翩，优雅永存！
+
+[AVATARCOLLECTIONS_NOT_EXIST]
+Not Owned
+
+[PLANTING_NOT_ON_SNOWMAN]
+You can't plant on the targets.
+
+[HARVEST_BATTLE_HEAD_ID_25647]
+风声鹤唳
+
+[HARVEST_BATTLE_HEAD_DES_ID_25647]
+在农场大作战活动中，通过超级玉米兑换
+
+[TOYS_HEAD_ID_25648]
+九色降临
+
+[TOYS_HEAD_DES_ID_25648]
+参与活动国风怀古行获得
 
 
 
@@ -44787,7 +45735,7 @@ E.M.Peach万圣节 Costume
 阳光产出时间间隔减少4秒
 
 [NEW_AVATAR_SHORT_DESCRIPTION_WALLNUT_2]
-坚果圣诞节 Costume
+Mummy Costume
 
 [NEW_AVATAR_DESCRIPTION_WALLNUT_2]
 种植冷却缩短10%
@@ -45143,28 +46091,28 @@ Stunion Costume
 
 [SECTION_VERSION_330_NEW_TEXT]
 [ADVICE_ABOUT_PLANT_ARMORFLAME]
-Plant it in a 2-grid vacant space
+Hero plants require two tiles of space to be planted.
 
 [ADVICE_ABOUT_PLANT_ARMORFLAME_ON_VINE]
-This can't be planted on vines
+Hero plants cannot be planted on vines.
 
 [RANK_AVATAR_CONTENT_TITLE_61017]
-Fight against the boss
+Fight against the Boss
 
 [RANK_AVATAR_CONTENT_CONTENT_61017]
 The reward for the master position in the 15th season of the Two-player Mode
 
 [RANK_AVATAR_DIY_16]
-Christmas snow scene
+Christmas Snow Scene
 
 [RANK_AVATAR_DIY_17]
 Celebrate the Spring Festival
 
 [RANK_AVATAR_DIY_18]
-Fight against the boss
+Fight against the Boss
 
 [TRY_FROM_START]
-Start over
+Start Over
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT2]
 This artifact can be obtained by lottery in a limited-time event.
@@ -53467,7 +54415,7 @@ Shoot 2 small tornadoes which spin around the big one and enhance it damage.
 Pistol Pinecone
 
 [PINECONE_DESCRIPTION_HEADER]
-After defeating a zombie, releases a special attack.
+Pistol Pinecone fires pinecones at zombies. Once it defeats one, it'll fire a special projectile that stuns and knocks back zombies.
 
 [PINECONE_DESCRIPTION]
 {KEYWORD}Plant Features: {STAT}yellow plant
@@ -53757,10 +54705,10 @@ Zombot Coal Crusher
 A coal-slugging behemoth of an engine, this train's the last one you'll ever take.
 
 [ZOMBIE_PARKOUR]
-Security Guard Zombie
+Security Zombie
 
 [ZOMBIE_PARKOUR_DESCRIPTION]
-Security Guard Zombie is a bit too into the security guard job. He'll take up any offer to supervise a place, from railroads, to abandoned malls, to run-down pizzerias and even entire amusement parks. Just not corn mazes, he's not foolhardy enough for those.
+Security Zombie is a bit too into the security guard job. He'll take up any offer to supervise a place, from railroads, to abandoned malls, to run-down pizzerias and even entire amusement parks. Just not corn mazes, he's not foolhardy enough for those.
 
 [ZOMBIE_PARKOUR_DESCRIPTION_HEADER]
 Regular vandal-chasing zombie.
@@ -56250,55 +57198,64 @@ Marks the arrival of an intrepid "wave" of zombies.
 New Year Zombie
 
 [ZOMBIE_LNY_DESCRIPTION_HEADER]
-Some people might think it's weird for zombies to celebrate new year, but it's better to just roll with it.
+Regular celebratory zombie.
 
 [ZOMBIE_LNY_DESCRIPTION]
-Basic Zombies that only appear during New Year.
+He dreams of one day riding on one of those flying lanterns and going to space, he gets really mad when other, smarter zombies tell him the truth.
 
 [ZOMBIE_LNY_FLAG]
 New Year Flag Zombie
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION_HEADER]
-Flag Zombie is born to be a leader, his team needs him the most especially during special occasions like the New Year.
+Marks the arrival of a fiery “wave” of zombies.
 
 [ZOMBIE_LNY_FLAG_DESCRIPTION]
-New Year Zombie that holds a flag, normally signifies the incoming of a huge wave of zombies.
+The only reason New Year Flag Zombie is going through with this job is because nobody else wanted to.
 
 [ZOMBIE_LNY_ARMOR1]
-New Year Conehead Zombie
+New Year Conehead
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION_HEADER]
-"Kung Hei Fat Choi" is the only phrase he remembers.
+His vibrant yellow cone grants him double the health of a normal yearly zombie.
 
 [ZOMBIE_LNY_ARMOR1_DESCRIPTION]
-His yuanbao conehead makes him doubly strong compared to the normal New Year Zombies.
+As a child, New Year Conehead was always scared of the loud fireworks. That is, until he realized that Cones lower the sound of them enough so that he can freely watch without being scared! Too bad now he can't hear his other family members screaming for him to get back inside.
 
 [ZOMBIE_LNY_ARMOR2]
-New Year Buckethead Zombie
+New Year Buckethead
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION_HEADER]
-He always attacks at 12 a.m. at midnight, such that when peas hit the golden bell on his head, the first ring of the bell in New Year can be heard.
+His sturdy bell allows him to take a good chunk of damage.
 
 [ZOMBIE_LNY_ARMOR2_DESCRIPTION]
-His golden bell can absorb a lot of damage.
+Bells are already pretty loud and annoying when used by people with a brain, now imagine that, but with a whole group of zombies who don't know what they're doing, good luck sleeping during the spring festival when this guy is out and about.
 
 [ZOMBIE_LNY_IMP]
-新年粉丝小鬼僵尸
+New Year Fan Imp
 
 [ZOMBIE_LNY_IMP_DESCRIPTION_HEADER]
-爆竹的狂热粉丝, 每当过年都会冲出来燃放爆竹和他自己的头. 
+Punted far into your defences, then explodes beautifully.
 
 [ZOMBIE_LNY_IMP_DESCRIPTION]
-一个太过狂热的小鬼, 新年的狂热激情会让他爆炸. 
+Still angry that All-Star refused to dress up for the occasion.
+
+[ZOMBIE_LNY_CAMEL_SEGMENT]
+Dragon Camel Zombies
+
+[ZOMBIE_LNY_CAMEL_SEGMENT_DESCRIPTION_HEADER]
+A group of three or more zombies that are trying their best to imitate a dragon.
+
+[ZOMBIE_LNY_CAMEL_SEGMENT_DESCRIPTION]
+All-time champion of the yearly Zombie Animal Costume Contest for multiple years in a row. Used to have some pretty tight competition with Lion Dancer Zombie, until he mysteriously dissapeared some years back which has absolutely nothing to do with the Dragon Camel Zombies boobytrapping his mailbox, what do you mean?
 
 [ZOMBIE_LNY_CAMEL_TWOHUMP]
-新年骆驼牌僵尸
+Dragon Camel Zombies
 
 [ZOMBIE_LNY_CAMEL_TWOHUMP_DESCRIPTION_HEADER]
-这里有一条龙, 伟大的龙, 真的...
+A group of three or more zombies that are trying their best to imitate a dragon.
 
 [ZOMBIE_LNY_CAMEL_TWOHUMP_DESCRIPTION]
-紧随其他新年骆驼僵尸的步伐前进. 
+All-time champion of the yearly Zombie Animal Costume Contest for multiple years in a row. Used to have some pretty tight competition with Lion Dancer Zombie, until he mysteriously dissapeared some years back which has absolutely nothing to do with the Dragon Camel Zombies boobytrapping his mailbox, what do you mean?
 
 [ZOMBIE_ZOMBOSSMECH_LOSTCITY_DESCRIPTION]
 {KEYWORD}特点: {STAT}放出僵尸和燃烧袋
@@ -56653,8 +57610,9 @@ Moshes plants back a space when his jam is playing.
 
 [ZOMBIE_MODERN_SUPERFANIMP_DESCRIPTION_HEADER]
 一个太过狂热的小鬼, 啦啦啦的狂热激情会让它爆炸. 
+
 [ZOMBIE_TUTORIAL_GARGANTUAR]
-巨人僵尸
+Gargantuar
 
 [ZOMBIE_TUTORIAL_GARGANTUAR_DESCRIPTION]
 {KEYWORD}伤害:  {STAT}用电线杆砸碎植物
@@ -56666,7 +57624,7 @@ Moshes plants back a space when his jam is playing.
 巨人僵尸的确是个大麻烦. 
 
 [ZOMBIE_TUTORIAL_IMP]
-小鬼僵尸
+Imp
 
 [ZOMBIE_TUTORIAL_IMP_DESCRIPTION]
 {FLAVOR}他的恶劣态度(以它自己的话来说, "僵尸态度")足以弥补他攻击距离的不足. 别刺激他. 
@@ -56675,7 +57633,7 @@ Moshes plants back a space when his jam is playing.
 会被扔到你的防线之后, 然后继续缓步推进. 
 
 [ZOMBIE_VASE_GARGANTUAR]
-花瓶巨人僵尸
+Vase Gargantuar
 
 [ZOMBIE_VASE_GARGANTUAR_DESCRIPTION]
 {KEYWORD}伤害:  {STAT}用电线杆砸碎植物
@@ -56685,6 +57643,7 @@ Moshes plants back a space when his jam is playing.
 
 [ZOMBIE_VASE_GARGANTUAR_DESCRIPTION_HEADER]
 体型巨大的僵尸, 却被困在了一个小小的无生命的空间里. 
+
 [ZOMBIE_ZOMBOSSMECH_DINO]
 恐龙机械僵尸
 
@@ -56814,16 +57773,16 @@ Labor Zombie works night and day diligently, just to make money to buy brain bis
 Regular everyday-working zombie.
 
 [ZOMBIE_STEAM_ARMOR1]
-Conehead Labor Zombie
+Labor Conehead
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION]
 Conehead Labor Zombie is very happy about the roadcone on his head, he got promoted to a higher status because of that!
 
 [ZOMBIE_STEAM_ARMOR1_DESCRIPTION_HEADER]
-His roadcone makes him 2 times as tough as normal labor zombies.
+His roadcone makes him two times as tough as a normal laborer.
 
 [ZOMBIE_STEAM_ARMOR2]
-Buckethead Labor Zombie
+Labor Buckethead
 
 [ZOMBIE_STEAM_ARMOR2_DESCRIPTION]
 Buckethead Labor Zombie was rewarded with a salary increase a few days ago. He was very happy, so he asked the forger to forge a labeled iron bucket helmet for him. This iron bucket not only resisted a lot of damage for him, but also highlighted his identity!
@@ -56832,16 +57791,16 @@ Buckethead Labor Zombie was rewarded with a salary increase a few days ago. He w
 His forged iron bucket protects him from harm.
 
 [ZOMBIE_STEAM_FLAG]
-Flag Labor Zombie
+Labor Flag Zombie
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION]
-Flag Labor Zombie is the most convincing of all zombies. All the zombies are amazed that he can work in a well-organized manner and never work overtime. This time, he was awarded the best employee flag to mark his ability!
+Labor Flag Zombie is the most convincing of all zombies. All the zombies are amazed that he can work in a well-organized manner and never work overtime. This time, he was awarded the best employee flag to mark his ability!
 
 [ZOMBIE_STEAM_FLAG_DESCRIPTION_HEADER]
-Marks the arrival of a huge wave of steam zombies.
+Marks the arrival of a huge wave of underpaid zombies.
 
 [ZOMBIE_STEAM_GARGANTUAR]
-监工巨人僵尸
+Foreman Gargantuar
 
 [ZOMBIE_STEAM_GARGANTUAR_DESCRIPTION_HEADER]
 砸扁一切植物, 还会投掷小鬼. 
@@ -56853,7 +57812,7 @@ Marks the arrival of a huge wave of steam zombies.
 {FLAVOR}监工巨人僵尸是小型工厂的小头头, 一直保证工厂所生产的物品质量不会出现差错, 虽然平时对工人非常严苛, 而且自己脾气也非常暴躁, 平时喜欢吸雪茄, 但是不妨碍他是个好人. 
 
 [ZOMBIE_STEAM_IMP]
-工业小鬼僵尸
+Industrial Imp
 
 [ZOMBIE_STEAM_IMP_DESCRIPTION]
 靠着舅舅是监工巨人僵尸关系, 被安排到工厂谋求一个职位, 但是他平时工作还是比较刻苦的, 而且头脑聪明. 
@@ -56862,36 +57821,33 @@ Marks the arrival of a huge wave of steam zombies.
 被抛到你的大多数植物之后, 然后步行前进
 
 [ZOMBIE_STEAM_STOVE]
-锅炉僵尸
+Furnace Zombie
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION]
 {KEYWORD}弱点: {STAT}被冰系植物击中会降低温度
 
-[ZOMBIE_STEAM_STOVE_DESCRIPTION]
 整日都在高温环境下工作, 让他的脾气变得非常暴躁, 所以尽量不要去招惹他, 不过你去送他一杯冰水他会很高兴的. 
 
 [ZOMBIE_STEAM_STOVE_DESCRIPTION_HEADER]
 温度升高会对植物造成毁灭伤害
 
 [ZOMBIE_STEAM_GENTLEMAN]
-绅士僵尸
+Gentleman Zombie
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
 {KEYWORD}弱点: {STAT}会被吹风荚兰吹走雨伞
 
-[ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION]
 是一名贵族绅士, 所以非常注重自己的仪态, 每天出门都要打扮的整整齐齐, 每天带着雨伞就是怕下雨弄乱他的仪表看上去不绅士. 
 
 [ZOMBIE_STEAM_GENTLEMAN_DESCRIPTION_HEADER]
 可以跨越地面的防御与障碍
 
 [ZOMBIE_STEAM_COAL_MINER]
-煤矿僵尸
+Coal Miner Zombie
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
 {KEYWORD}弱点: {STAT} 被火系植物击中会加快燃烧速度
 
-[ZOMBIE_STEAM_COAL_MINER_DESCRIPTION]
 每天推着矿车进进出出, 只为了有一天能发现金矿可以一夜暴富, 这样子工作的情况也就持续了365个日夜. 
 
 [ZOMBIE_STEAM_COAL_MINER_DESCRIPTION_HEADER]
@@ -57492,10 +58448,10 @@ Blessing Description
 All Artifacts
 
 [ARTIFACT_BLESS_SAVE_LEFT]
-Use this one
+Use this Blessing
 
 [ARTIFACT_BLESS_SAVE_RIGHT]
-Use this one
+Use this Blessing
 
 [ARTIFACT_BOOST_TYPE_1]
 Increase Attack Power by
@@ -57504,7 +58460,7 @@ Increase Attack Power by
 Increase Duration by
 
 [ARTIFACT_BOOST_TYPE_3]
-Increase Control Effects by
+Improve Status Effects by
 
 [ARTIFACT_BOOST_TYPE_4]
 Decrease Cooldown by
@@ -57522,7 +58478,7 @@ Increase Passive 1 Effect by
 Global Effect for Passive 1 by
 
 [ARTIFACT_NO_DETAILS]
-Unable to view the details of the current artifact
+Unable to view the details of the current artifact.
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TITLE]
 
@@ -70013,7 +70969,7 @@ Earn rewards the first time you beat any level at Mild, Spicy and Extra Hot diff
 Penny's Pursuit
 
 [RIFT_LEVEL_PLAY]
-x{FUEL_AMT}   Play
+x {FUEL_AMT} Play
 
 [RIFT_LEVEL_SETUP_TITLE]
 Select Level {LEVEL_NUMBER} Difficulty:
